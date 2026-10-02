@@ -99,6 +99,13 @@
    "e": 1791914400000
   },
   {
+   "u": "/software/freedom-to-create-with-corel-graphics-suite-2025-software",
+   "n": "Freedom to Create with COREL Graphics Suite 2025",
+   "b": "Unlock your creativity",
+   "i": "https://hb.imgix.net/ad83eb754243f058045dbcd0f551ca3d76975b16.jpg?auto=compress,format&fit=crop&h=353&w=616&s=29b5379da0ac1ced1912db4de5266431",
+   "e": 1791223200000
+  },
+  {
    "u": "/software/picture-perfect-ultimate-photo-video-bundle-software",
    "n": "Picture Perfect - The Ultimate Photo & Video Bundle",
    "b": "Enhance your photos and videos like a pro",
@@ -113,34 +120,6 @@
    "e": 1791828000000
   },
   {
-   "u": "/software/game-dev-mega-cities-software",
-   "n": "Game Dev Mega Cities",
-   "b": "Build next-gen mega cities with 500+ Assets!",
-   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
-   "e": 1792519200000
-  },
-  {
-   "u": "/software/freedom-to-create-with-corel-graphics-suite-2025-software",
-   "n": "Freedom to Create with COREL Graphics Suite 2025",
-   "b": "Unlock your creativity",
-   "i": "https://hb.imgix.net/ad83eb754243f058045dbcd0f551ca3d76975b16.jpg?auto=compress,format&fit=crop&h=353&w=616&s=29b5379da0ac1ced1912db4de5266431",
-   "e": 1791223200000
-  },
-  {
-   "u": "/software/best-core-game-dev-assets-tools-megabundle-software",
-   "n": "Best Core Game Dev Assets & Tools Megabundle",
-   "b": "Build better games, faster",
-   "i": "https://hb.imgix.net/13d68fc2a5f0ee7700d4646c7585d21083af234f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d79b42f487b76b512e18b931fc529dea",
-   "e": 1792087200000
-  },
-  {
-   "u": "/software/allinclusive-codex-claude-code-python-automation-bundle-software",
-   "n": "The All-Inclusive Codex, Claude Code & Python Automation Bundle",
-   "b": "Welcome to your all-inclusive Claude Coding resort!",
-   "i": "https://hb.imgix.net/f62ccfc24590c358d459e6b4a3ba68a454af0c3e.jpg?auto=compress,format&fit=crop&h=353&w=616&s=c0057956add9217021466c87c917fde3",
-   "e": 1791396000000
-  },
-  {
    "u": "/software/ultimate-game-audio-bundle-access-300000-premium-music-and-sound-effects-software",
    "n": "Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects",
    "b": "Thousands of audio assets at your fingertips",
@@ -148,11 +127,11 @@
    "e": 1791309600000
   },
   {
-   "u": "/software/back-to-school-certification-bundle-with-practice-exams-software",
-   "n": "Back to School Linux, Red Hat, Kubernetes and Cybersecurity Certification Bundle with Prac",
-   "b": "It’s a back-to-school cybersecurity bonanza!",
-   "i": "https://hb.imgix.net/6fd8cbe985fa566008c7a529ce7624626b50ab3c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=712615c9737a8cb6875924f80b0bcde1",
-   "e": 1791482400000
+   "u": "/software/game-dev-mega-cities-software",
+   "n": "Game Dev Mega Cities",
+   "b": "Build next-gen mega cities with 500+ Assets!",
+   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
+   "e": 1792519200000
   },
   {
    "u": "/software/meshingun-allstars-software",
@@ -169,11 +148,18 @@
    "e": 1791050400000
   },
   {
-   "u": "/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
-   "n": "Miniatures and Mayhem: Adventures, Supplements and 3D Printables",
-   "b": "Madness, printed and printable",
-   "i": "https://hb.imgix.net/ca4849b3076cd3608c03e07dc97a9c27047a0b9a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=40ee49830e1f8dffcc2b281cf1a29697",
-   "e": 1792173600000
+   "u": "/software/allinclusive-codex-claude-code-python-automation-bundle-software",
+   "n": "The All-Inclusive Codex, Claude Code & Python Automation Bundle",
+   "b": "Welcome to your all-inclusive Claude Coding resort!",
+   "i": "https://hb.imgix.net/f62ccfc24590c358d459e6b4a3ba68a454af0c3e.jpg?auto=compress,format&fit=crop&h=353&w=616&s=c0057956add9217021466c87c917fde3",
+   "e": 1791396000000
+  },
+  {
+   "u": "/software/best-core-game-dev-assets-tools-megabundle-software",
+   "n": "Best Core Game Dev Assets & Tools Megabundle",
+   "b": "Build better games, faster",
+   "i": "https://hb.imgix.net/13d68fc2a5f0ee7700d4646c7585d21083af234f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d79b42f487b76b512e18b931fc529dea",
+   "e": 1792087200000
   },
   {
    "u": "/software/ultimate-fantasy-miniatures-bundle-software",
@@ -181,6 +167,20 @@
    "b": "Flex your miniature printing might",
    "i": "https://hb.imgix.net/302446d9dabeebaf6d020e0c1af05872ce77e873.jpg?auto=compress,format&fit=crop&h=353&w=616&s=9ef6dcbbd9a3a6ce2224540af48c480a",
    "e": 1791396000000
+  },
+  {
+   "u": "/software/back-to-school-certification-bundle-with-practice-exams-software",
+   "n": "Back to School Linux, Red Hat, Kubernetes and Cybersecurity Certification Bundle with Prac",
+   "b": "It’s a back-to-school cybersecurity bonanza!",
+   "i": "https://hb.imgix.net/6fd8cbe985fa566008c7a529ce7624626b50ab3c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=712615c9737a8cb6875924f80b0bcde1",
+   "e": 1791482400000
+  },
+  {
+   "u": "/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
+   "n": "Miniatures and Mayhem: Adventures, Supplements and 3D Printables",
+   "b": "Madness, printed and printable",
+   "i": "https://hb.imgix.net/ca4849b3076cd3608c03e07dc97a9c27047a0b9a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=40ee49830e1f8dffcc2b281cf1a29697",
+   "e": 1792173600000
   },
   {
    "u": "/software/audit-packt-software",
