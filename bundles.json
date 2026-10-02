@@ -99,25 +99,11 @@
    "e": 1791914400000
   },
   {
-   "u": "/software/back-to-school-certification-bundle-with-practice-exams-software",
-   "n": "Back to School Linux, Red Hat, Kubernetes and Cybersecurity Certification Bundle with Prac",
-   "b": "It’s a back-to-school cybersecurity bonanza!",
-   "i": "https://hb.imgix.net/6fd8cbe985fa566008c7a529ce7624626b50ab3c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=712615c9737a8cb6875924f80b0bcde1",
-   "e": 1791482400000
-  },
-  {
    "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
    "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
    "b": "Spine-crawling Lovecraftian miniatures await.",
    "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
    "e": 1791914400000
-  },
-  {
-   "u": "/software/meshingun-allstars-software",
-   "n": "Meshingun All-Stars",
-   "b": "Hey now, Asset All-Star!",
-   "i": "https://hb.imgix.net/a82c9c2af95ea601fb7c977ec9ed95d2e2d6531c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=169773a9bbd5416b0cd710c6e2bf971e",
-   "e": 1791482400000
   },
   {
    "u": "/software/mega-unreal-engine-bundle-software",
@@ -139,6 +125,13 @@
    "b": "Build next-gen mega cities with 500+ Assets!",
    "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
    "e": 1792519200000
+  },
+  {
+   "u": "/software/back-to-school-certification-bundle-with-practice-exams-software",
+   "n": "Back to School Linux, Red Hat, Kubernetes and Cybersecurity Certification Bundle with Prac",
+   "b": "It’s a back-to-school cybersecurity bonanza!",
+   "i": "https://hb.imgix.net/6fd8cbe985fa566008c7a529ce7624626b50ab3c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=712615c9737a8cb6875924f80b0bcde1",
+   "e": 1791482400000
   },
   {
    "u": "/software/ultimate-game-audio-bundle-access-300000-premium-music-and-sound-effects-software",
@@ -169,6 +162,20 @@
    "e": 1791050400000
   },
   {
+   "u": "/software/ultimate-fantasy-miniatures-bundle-software",
+   "n": "Ultimate Fantasy Miniatures Bundle",
+   "b": "Flex your miniature printing might",
+   "i": "https://hb.imgix.net/302446d9dabeebaf6d020e0c1af05872ce77e873.jpg?auto=compress,format&fit=crop&h=353&w=616&s=9ef6dcbbd9a3a6ce2224540af48c480a",
+   "e": 1791396000000
+  },
+  {
+   "u": "/software/meshingun-allstars-software",
+   "n": "Meshingun All-Stars",
+   "b": "Hey now, Asset All-Star!",
+   "i": "https://hb.imgix.net/a82c9c2af95ea601fb7c977ec9ed95d2e2d6531c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=169773a9bbd5416b0cd710c6e2bf971e",
+   "e": 1791482400000
+  },
+  {
    "u": "/software/audit-packt-software",
    "n": "Audit by ACI Learning",
    "b": "Confidently ace your audit",
@@ -181,13 +188,6 @@
    "b": "Madness, printed and printable",
    "i": "https://hb.imgix.net/ca4849b3076cd3608c03e07dc97a9c27047a0b9a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=40ee49830e1f8dffcc2b281cf1a29697",
    "e": 1792173600000
-  },
-  {
-   "u": "/software/ultimate-fantasy-miniatures-bundle-software",
-   "n": "Ultimate Fantasy Miniatures Bundle",
-   "b": "Flex your miniature printing might",
-   "i": "https://hb.imgix.net/302446d9dabeebaf6d020e0c1af05872ce77e873.jpg?auto=compress,format&fit=crop&h=353&w=616&s=9ef6dcbbd9a3a6ce2224540af48c480a",
-   "e": 1791396000000
   }
  ]
 }
