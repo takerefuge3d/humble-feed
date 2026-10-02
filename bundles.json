@@ -1,0 +1,193 @@
+{
+ "bundles": [
+  {
+   "u": "/software/voice-vault-ultimate-collection-humanmade-voice-lines-software",
+   "n": "Voice Vault: The ultimate collection of human-made voice lines",
+   "b": "Unlock premium spoken lines with Voice Vault",
+   "i": "https://hb.imgix.net/fd1fc07f04a47567806fb4bf9726e72d62171e05.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d563a346ae975d6418d74beb3618981a",
+   "e": 1791482400000
+  },
+  {
+   "u": "/software/unreal-engine-realtime-simulation-fx-suite-software",
+   "n": "Unreal Engine Real-Time Simulation & FX Suite",
+   "b": "Add real-life richness to your next build",
+   "i": "https://hb.imgix.net/f167efb5143e87c82a2a6fbde8028dfb7adbde73.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d4fcdcafb2445a5101b83beb7e55514",
+   "e": 1791223200000
+  },
+  {
+   "u": "/software/ultimate-sfx-for-games-software",
+   "n": "Ultimate SFX for Games",
+   "b": "Tons of SFX? Sounds great!",
+   "i": "https://hb.imgix.net/f318723cb142f3c24d23d34bb9a7028fb0447ce7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=85d901e8ddd372b7618b5f21971223c3",
+   "e": 1792087200000
+  },
+  {
+   "u": "/software/best-synty-game-dev-assets-bundle-6-software",
+   "n": "Best of Synty Game Dev Assets Bundle 6",
+   "b": "Scene setting assets by Synty Studios",
+   "i": "https://hb.imgix.net/a19f040608cd25d712920bc835e8a491ec5cd2f2.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7b1e114a12c1b3c97cf8f99994838b83",
+   "e": 1791914400000
+  },
+  {
+   "u": "/software/skullforge-studios-arsenal-mega-bundle-software",
+   "n": "SkullForge Studios Arsenal Mega Bundle",
+   "b": "Up your Arsenal!",
+   "i": "https://hb.imgix.net/c9eb0ba119f7c7234b5fb3383fb2c407ec54bf55.jpg?auto=compress,format&fit=crop&h=353&w=616&s=78f9b22556cc7c994d3203d8785e0dbc",
+   "e": 1791482400000
+  },
+  {
+   "u": "/software/poly-game-dev-assets-collection-3-software",
+   "n": "POLY Game Dev Assets Collection #3",
+   "b": "The perfect POLY asset collection.",
+   "i": "https://hb.imgix.net/0430e91192f933715148e3bc5daf19f3c55d0b30.jpg?auto=compress,format&fit=crop&h=353&w=616&s=b8e31f55ee73d89046ea0ba06f940695",
+   "e": 1791655200000
+  },
+  {
+   "u": "/software/threedee-character-creator-3d-asset-bundle-software",
+   "n": "ThreeDee Character Creator & 3D Asset Bundle",
+   "b": "Model custom characters & assets effortlessly.",
+   "i": "https://hb.imgix.net/ed7a7af5944834d4e31f4fab47c7ee9872cb3fa3.jpg?auto=compress,format&fit=crop&h=353&w=616&s=9130bdedfc6952aacd82185b8baae9f7",
+   "e": 1791568800000
+  },
+  {
+   "u": "/software/create-magic-with-magix-software",
+   "n": "Create Magic with Magix",
+   "b": "Create audio magic with Magix",
+   "i": "https://hb.imgix.net/0e7fefd699ea0726fdb98033e59175e318728c1f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=899374340d496fbc046751cea8c5f00c",
+   "e": 1791568800000
+  },
+  {
+   "u": "/software/front-end-web-development-bootcamp-bundle-software",
+   "n": "Front End Web Development Bootcamp Bundle",
+   "b": "Get battle‑ready with web dev bootcamps.",
+   "i": "https://hb.imgix.net/d4959c96fc909a4dd2c1a57f7a939c9ec48edb13.jpg?auto=compress,format&fit=crop&h=353&w=616&s=27dd125413b748099a31d8f05d4f54d8",
+   "e": 1791568800000
+  },
+  {
+   "u": "/software/complete-claude-and-anthropic-certification-bundle-software",
+   "n": "The Complete Claude and Anthropic Certification Bundle",
+   "b": "Code it with Claude",
+   "i": "https://hb.imgix.net/47c11f8d0dc413678432e3f0cb06825aa34324c0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fa0789f9ddaf66d88b72f1c5a6db477b",
+   "e": 1791136800000
+  },
+  {
+   "u": "/software/backrooms-and-liminal-world-builder-bundle-software",
+   "n": "Backrooms and Liminal World Builder Bundle",
+   "b": "Create the next Backrooms!",
+   "i": "https://hb.imgix.net/25da09163d5daa175a59ab3c8fc0b8bc026677a9.jpg?auto=compress,format&fit=crop&h=353&w=616&s=154b76a6da598040b47717b309bdddc3",
+   "e": 1791309600000
+  },
+  {
+   "u": "/software/animate-like-pro-with-moho-pro-software",
+   "n": "Animate Like a Pro with Moho PRO",
+   "b": "Elite animations for professionals and digital artists",
+   "i": "https://hb.imgix.net/9a8180989947c8cd1594b150804c7a0cce2b414c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2cd03227f78eeec91e7fbc52e9d3f7a5",
+   "e": 1791396000000
+  },
+  {
+   "u": "/software/picture-perfect-ultimate-photo-video-bundle-software",
+   "n": "Picture Perfect - The Ultimate Photo & Video Bundle",
+   "b": "Enhance your photos and videos like a pro",
+   "i": "https://hb.imgix.net/a3e162a702ac7c75d2978508e82140cfe88d9c9b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e01c9a95df155fd94393addece44ae88",
+   "e": 1792692000000
+  },
+  {
+   "u": "/software/learn-to-make-games-in-godot-2026-software",
+   "n": "Learn to Make Games in GODOT 2026",
+   "b": "Imagine your future as a game developer!",
+   "i": "https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&fit=crop&h=353&w=616&s=82535934cf90f2d06ee046e42a9b738f",
+   "e": 1791914400000
+  },
+  {
+   "u": "/software/back-to-school-certification-bundle-with-practice-exams-software",
+   "n": "Back to School Linux, Red Hat, Kubernetes and Cybersecurity Certification Bundle with Prac",
+   "b": "It’s a back-to-school cybersecurity bonanza!",
+   "i": "https://hb.imgix.net/6fd8cbe985fa566008c7a529ce7624626b50ab3c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=712615c9737a8cb6875924f80b0bcde1",
+   "e": 1791482400000
+  },
+  {
+   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
+   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
+   "b": "Spine-crawling Lovecraftian miniatures await.",
+   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
+   "e": 1791914400000
+  },
+  {
+   "u": "/software/meshingun-allstars-software",
+   "n": "Meshingun All-Stars",
+   "b": "Hey now, Asset All-Star!",
+   "i": "https://hb.imgix.net/a82c9c2af95ea601fb7c977ec9ed95d2e2d6531c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=169773a9bbd5416b0cd710c6e2bf971e",
+   "e": 1791482400000
+  },
+  {
+   "u": "/software/mega-unreal-engine-bundle-software",
+   "n": "Mega Unreal Engine Bundle",
+   "b": "Upgrade your Unreal Engine asset library",
+   "i": "https://hb.imgix.net/a9616ec83451752a4a7e56d1b2ec2dd3bea0268d.jpg?auto=compress,format&fit=crop&h=353&w=616&s=80efb42cb03868b76c71d78a08470bca",
+   "e": 1791828000000
+  },
+  {
+   "u": "/software/best-core-game-dev-assets-tools-megabundle-software",
+   "n": "Best Core Game Dev Assets & Tools Megabundle",
+   "b": "Build better games, faster",
+   "i": "https://hb.imgix.net/13d68fc2a5f0ee7700d4646c7585d21083af234f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d79b42f487b76b512e18b931fc529dea",
+   "e": 1792087200000
+  },
+  {
+   "u": "/software/game-dev-mega-cities-software",
+   "n": "Game Dev Mega Cities",
+   "b": "Build next-gen mega cities with 500+ Assets!",
+   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
+   "e": 1792519200000
+  },
+  {
+   "u": "/software/ultimate-game-audio-bundle-access-300000-premium-music-and-sound-effects-software",
+   "n": "Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects",
+   "b": "Thousands of audio assets at your fingertips",
+   "i": "https://hb.imgix.net/f76c5f2f6c8c6d0d8751c2029ac88e084963016f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=35ba2f7e49a58868588e883b91ec50e3",
+   "e": 1791309600000
+  },
+  {
+   "u": "/software/freedom-to-create-with-corel-graphics-suite-2025-software",
+   "n": "Freedom to Create with COREL Graphics Suite 2025",
+   "b": "Unlock your creativity",
+   "i": "https://hb.imgix.net/ad83eb754243f058045dbcd0f551ca3d76975b16.jpg?auto=compress,format&fit=crop&h=353&w=616&s=29b5379da0ac1ced1912db4de5266431",
+   "e": 1791223200000
+  },
+  {
+   "u": "/software/allinclusive-codex-claude-code-python-automation-bundle-software",
+   "n": "The All-Inclusive Codex, Claude Code & Python Automation Bundle",
+   "b": "Welcome to your all-inclusive Claude Coding resort!",
+   "i": "https://hb.imgix.net/f62ccfc24590c358d459e6b4a3ba68a454af0c3e.jpg?auto=compress,format&fit=crop&h=353&w=616&s=c0057956add9217021466c87c917fde3",
+   "e": 1791396000000
+  },
+  {
+   "u": "/software/jrotools-pro-photobash-reference-megapack-software",
+   "n": "JROTools Pro Photobash Reference Megapack",
+   "b": "Professional asset tools by JROTools!",
+   "i": "https://hb.imgix.net/2477c9da67f48687c347bae252f59a224dcab19e.jpg?auto=compress,format&fit=crop&h=353&w=616&s=530d231f1e708afa91e6ffc5c3a18cfc",
+   "e": 1791050400000
+  },
+  {
+   "u": "/software/audit-packt-software",
+   "n": "Audit by ACI Learning",
+   "b": "Confidently ace your audit",
+   "i": "https://hb.imgix.net/a7af112dd46cddb57d68f8562d43c090a2d56a36.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fd63b567d058f74b4cc3cb72f9a56c2f",
+   "e": 1791223200000
+  },
+  {
+   "u": "/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
+   "n": "Miniatures and Mayhem: Adventures, Supplements and 3D Printables",
+   "b": "Madness, printed and printable",
+   "i": "https://hb.imgix.net/ca4849b3076cd3608c03e07dc97a9c27047a0b9a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=40ee49830e1f8dffcc2b281cf1a29697",
+   "e": 1792173600000
+  },
+  {
+   "u": "/software/ultimate-fantasy-miniatures-bundle-software",
+   "n": "Ultimate Fantasy Miniatures Bundle",
+   "b": "Flex your miniature printing might",
+   "i": "https://hb.imgix.net/302446d9dabeebaf6d020e0c1af05872ce77e873.jpg?auto=compress,format&fit=crop&h=353&w=616&s=9ef6dcbbd9a3a6ce2224540af48c480a",
+   "e": 1791396000000
+  }
+ ]
+}
