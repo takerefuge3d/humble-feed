@@ -1,0 +1,119 @@
+# Take Refuge 3D | Humble Bundle feed
+# Reads Humble's public software-bundles page every few hours and saves the
+# live bundles to bundles.json in this repo. The Offers page reads that file.
+name: Update Humble bundles
+
+on:
+  schedule:
+    - cron: '23 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-humble-bundles
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Build bundles.json
+        run: |
+          python3 - <<'PY'
+          import html, json, re, sys, time, urllib.request
+          from datetime import datetime, timezone
+
+          PAGES = ("https://www.humblebundle.com/software", "https://www.humblebundle.com/bundles")
+          UA = "TakeRefuge3D-offers/1.0 (+https://takerefuge3d.xyz/offers)"
+          BLOB = re.compile(r'<script[^>]*id="landingPage-json-data"[^>]*>(.*?)</script>', re.S)
+          PATH = re.compile(r"^/software/[A-Za-z0-9][A-Za-z0-9_-]*$")
+          TAGS = re.compile(r"<[^>]*>")
+
+          def get(url):
+              last = None
+              for attempt in range(3):
+                  try:
+                      req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
+                      with urllib.request.urlopen(req, timeout=60) as r:
+                          return r.read().decode("utf-8", "replace")
+                  except Exception as e:
+                      last = e
+                      time.sleep(5 * (attempt + 1))
+              sys.exit(f"Could not download {url}: {last}")
+
+          def tiles(node):
+              if isinstance(node, dict):
+                  if isinstance(node.get("product_url"), str):
+                      yield node
+                  for v in node.values():
+                      yield from tiles(v)
+              elif isinstance(node, list):
+                  for v in node:
+                      yield from tiles(v)
+
+          def text(s, n):
+              s = html.unescape(TAGS.sub(" ", s if isinstance(s, str) else ""))
+              return " ".join(s.split())[:n]
+
+          def end_ms(s):
+              if not isinstance(s, str) or not s:
+                  return 0
+              try:
+                  d = datetime.fromisoformat(s.replace("Z", "+00:00"))
+              except ValueError:
+                  return 0
+              if d.tzinfo is None:
+                  d = d.replace(tzinfo=timezone.utc)
+              return int(d.timestamp() * 1000)
+
+          def bundles(page):
+              m = BLOB.search(page)
+              if not m:
+                  return None
+              out, seen = [], set()
+              for t in tiles(json.loads(m.group(1))):
+                  u = t["product_url"].split("?")[0]
+                  img = t.get("tile_image") or t.get("high_res_tile_image")
+                  name = text(t.get("tile_short_name") or t.get("tile_name"), 90)
+                  if not PATH.match(u) or u in seen or not name:
+                      continue
+                  if not isinstance(img, str) or not img.startswith("https://"):
+                      continue
+                  seen.add(u)
+                  out.append({
+                      "u": u,
+                      "n": name,
+                      "b": text(t.get("short_marketing_blurb") or t.get("marketing_blurb"), 160),
+                      "i": img,
+                      "e": end_ms(t.get("end_date|datetime")),
+                  })
+              return out
+
+          found = None
+          for url in PAGES:
+              found = bundles(get(url))
+              if found:
+                  break
+          if found is None:
+              sys.exit("Humble's page no longer contains the bundle list. Its layout has changed.")
+
+          with open("bundles.json", "w", encoding="utf-8") as f:
+              json.dump({"bundles": found}, f, indent=1, ensure_ascii=False)
+              f.write("\n")
+          print(f"Wrote {len(found)} software bundles to bundles.json")
+          PY
+
+      - name: Save if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add bundles.json
+          if git diff --cached --quiet; then
+            echo "No change"
+          else
+            git commit -m "Update Humble bundles"
+            git push
+          fi
