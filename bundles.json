@@ -120,6 +120,13 @@
    "e": 1791828000000
   },
   {
+   "u": "/software/game-dev-mega-cities-software",
+   "n": "Game Dev Mega Cities",
+   "b": "Build next-gen mega cities with 500+ Assets!",
+   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
+   "e": 1792519200000
+  },
+  {
    "u": "/software/freedom-to-create-with-corel-graphics-suite-2025-software",
    "n": "Freedom to Create with COREL Graphics Suite 2025",
    "b": "Unlock your creativity",
@@ -134,24 +141,10 @@
    "e": 1791309600000
   },
   {
-   "u": "/software/game-dev-mega-cities-software",
-   "n": "Game Dev Mega Cities",
-   "b": "Build next-gen mega cities with 500+ Assets!",
-   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
-   "e": 1792519200000
-  },
-  {
    "u": "/software/meshingun-allstars-software",
    "n": "Meshingun All-Stars",
    "b": "Hey now, Asset All-Star!",
    "i": "https://hb.imgix.net/a82c9c2af95ea601fb7c977ec9ed95d2e2d6531c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=169773a9bbd5416b0cd710c6e2bf971e",
-   "e": 1791482400000
-  },
-  {
-   "u": "/software/back-to-school-certification-bundle-with-practice-exams-software",
-   "n": "Back to School Linux, Red Hat, Kubernetes and Cybersecurity Certification Bundle with Prac",
-   "b": "It’s a back-to-school cybersecurity bonanza!",
-   "i": "https://hb.imgix.net/6fd8cbe985fa566008c7a529ce7624626b50ab3c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=712615c9737a8cb6875924f80b0bcde1",
    "e": 1791482400000
   },
   {
@@ -160,6 +153,13 @@
    "b": "Build better games, faster",
    "i": "https://hb.imgix.net/13d68fc2a5f0ee7700d4646c7585d21083af234f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d79b42f487b76b512e18b931fc529dea",
    "e": 1792087200000
+  },
+  {
+   "u": "/software/back-to-school-certification-bundle-with-practice-exams-software",
+   "n": "Back to School Linux, Red Hat, Kubernetes and Cybersecurity Certification Bundle with Prac",
+   "b": "It’s a back-to-school cybersecurity bonanza!",
+   "i": "https://hb.imgix.net/6fd8cbe985fa566008c7a529ce7624626b50ab3c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=712615c9737a8cb6875924f80b0bcde1",
+   "e": 1791482400000
   },
   {
    "u": "/software/allinclusive-codex-claude-code-python-automation-bundle-software",
