@@ -29,6 +29,20 @@
    "e": 1791914400000
   },
   {
+   "u": "/software/unity-powerhouse-bundle-software",
+   "n": "Unity Powerhouse Bundle",
+   "b": "Build your world with Unity",
+   "i": "https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f89952f7d9a6ccd353dfb9163763b45f",
+   "e": 1793210400000
+  },
+  {
+   "u": "/software/complete-java-developer-bundle-software",
+   "n": "The Complete Java Developer Bundle",
+   "b": "Gotta have your Java",
+   "i": "https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2393c7cd1f61213918020cbc28be6b4f",
+   "e": 1793210400000
+  },
+  {
    "u": "/software/skullforge-studios-arsenal-mega-bundle-software",
    "n": "SkullForge Studios Arsenal Mega Bundle",
    "b": "Up your Arsenal!",
@@ -82,7 +96,7 @@
    "n": "Animate Like a Pro with Moho PRO",
    "b": "Elite animations for professionals and digital artists",
    "i": "https://hb.imgix.net/9a8180989947c8cd1594b150804c7a0cce2b414c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2cd03227f78eeec91e7fbc52e9d3f7a5",
-   "e": 1791396000000
+   "e": 1792000800000
   },
   {
    "u": "/software/learn-to-make-games-in-godot-2026-software",
@@ -92,18 +106,11 @@
    "e": 1791914400000
   },
   {
-   "u": "/software/ultimate-game-audio-bundle-access-300000-premium-music-and-sound-effects-software",
-   "n": "Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects",
-   "b": "Thousands of audio assets at your fingertips",
-   "i": "https://hb.imgix.net/f76c5f2f6c8c6d0d8751c2029ac88e084963016f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=35ba2f7e49a58868588e883b91ec50e3",
+   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
+   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
+   "b": "Spine-crawling Lovecraftian miniatures await.",
+   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
    "e": 1791914400000
-  },
-  {
-   "u": "/software/ultimate-sfx-for-games-software",
-   "n": "Ultimate SFX for Games",
-   "b": "Tons of SFX? Sounds great!",
-   "i": "https://hb.imgix.net/f318723cb142f3c24d23d34bb9a7028fb0447ce7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=85d901e8ddd372b7618b5f21971223c3",
-   "e": 1792087200000
   },
   {
    "u": "/software/mega-unreal-engine-bundle-software",
@@ -113,20 +120,6 @@
    "e": 1791828000000
   },
   {
-   "u": "/software/allinclusive-codex-claude-code-python-automation-bundle-software",
-   "n": "The All-Inclusive Codex, Claude Code & Python Automation Bundle",
-   "b": "Welcome to your all-inclusive Claude Coding resort!",
-   "i": "https://hb.imgix.net/f62ccfc24590c358d459e6b4a3ba68a454af0c3e.jpg?auto=compress,format&fit=crop&h=353&w=616&s=c0057956add9217021466c87c917fde3",
-   "e": 1791396000000
-  },
-  {
-   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
-   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
-   "b": "Spine-crawling Lovecraftian miniatures await.",
-   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
-   "e": 1791914400000
-  },
-  {
    "u": "/software/best-core-game-dev-assets-tools-megabundle-software",
    "n": "Best Core Game Dev Assets & Tools Megabundle",
    "b": "Build better games, faster",
@@ -134,11 +127,11 @@
    "e": 1792087200000
   },
   {
-   "u": "/software/ultimate-fantasy-miniatures-bundle-software",
-   "n": "Ultimate Fantasy Miniatures Bundle",
-   "b": "Flex your miniature printing might",
-   "i": "https://hb.imgix.net/302446d9dabeebaf6d020e0c1af05872ce77e873.jpg?auto=compress,format&fit=crop&h=353&w=616&s=9ef6dcbbd9a3a6ce2224540af48c480a",
-   "e": 1791396000000
+   "u": "/software/ultimate-sfx-for-games-software",
+   "n": "Ultimate SFX for Games",
+   "b": "Tons of SFX? Sounds great!",
+   "i": "https://hb.imgix.net/f318723cb142f3c24d23d34bb9a7028fb0447ce7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=85d901e8ddd372b7618b5f21971223c3",
+   "e": 1792087200000
   },
   {
    "u": "/software/complete-ai-solopreneur-bundle-software",
@@ -155,6 +148,20 @@
    "e": 1791482400000
   },
   {
+   "u": "/software/meshingun-allstars-software",
+   "n": "Meshingun All-Stars",
+   "b": "Hey now, Asset All-Star!",
+   "i": "https://hb.imgix.net/a82c9c2af95ea601fb7c977ec9ed95d2e2d6531c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=169773a9bbd5416b0cd710c6e2bf971e",
+   "e": 1791482400000
+  },
+  {
+   "u": "/software/ultimate-game-audio-bundle-access-300000-premium-music-and-sound-effects-software",
+   "n": "Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects",
+   "b": "Thousands of audio assets at your fingertips",
+   "i": "https://hb.imgix.net/f76c5f2f6c8c6d0d8751c2029ac88e084963016f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=35ba2f7e49a58868588e883b91ec50e3",
+   "e": 1791914400000
+  },
+  {
    "u": "/software/game-dev-mega-cities-software",
    "n": "Game Dev Mega Cities",
    "b": "Build next-gen mega cities with 500+ Assets!",
@@ -162,11 +169,11 @@
    "e": 1792519200000
   },
   {
-   "u": "/software/picture-perfect-ultimate-photo-video-bundle-software",
-   "n": "Picture Perfect - The Ultimate Photo & Video Bundle",
-   "b": "Enhance your photos and videos like a pro",
-   "i": "https://hb.imgix.net/a3e162a702ac7c75d2978508e82140cfe88d9c9b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e01c9a95df155fd94393addece44ae88",
-   "e": 1792692000000
+   "u": "/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
+   "n": "Miniatures and Mayhem: Adventures, Supplements and 3D Printables",
+   "b": "Madness, printed and printable",
+   "i": "https://hb.imgix.net/ca4849b3076cd3608c03e07dc97a9c27047a0b9a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=40ee49830e1f8dffcc2b281cf1a29697",
+   "e": 1792173600000
   },
   {
    "u": "/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
@@ -176,18 +183,11 @@
    "e": 1792864800000
   },
   {
-   "u": "/software/meshingun-allstars-software",
-   "n": "Meshingun All-Stars",
-   "b": "Hey now, Asset All-Star!",
-   "i": "https://hb.imgix.net/a82c9c2af95ea601fb7c977ec9ed95d2e2d6531c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=169773a9bbd5416b0cd710c6e2bf971e",
-   "e": 1791482400000
-  },
-  {
-   "u": "/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
-   "n": "Miniatures and Mayhem: Adventures, Supplements and 3D Printables",
-   "b": "Madness, printed and printable",
-   "i": "https://hb.imgix.net/ca4849b3076cd3608c03e07dc97a9c27047a0b9a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=40ee49830e1f8dffcc2b281cf1a29697",
-   "e": 1792173600000
+   "u": "/software/picture-perfect-ultimate-photo-video-bundle-software",
+   "n": "Picture Perfect - The Ultimate Photo & Video Bundle",
+   "b": "Enhance your photos and videos like a pro",
+   "i": "https://hb.imgix.net/a3e162a702ac7c75d2978508e82140cfe88d9c9b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e01c9a95df155fd94393addece44ae88",
+   "e": 1792692000000
   }
  ]
 }
