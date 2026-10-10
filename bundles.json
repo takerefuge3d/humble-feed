@@ -54,7 +54,7 @@
    "n": "POLY Game Dev Assets Collection #3",
    "b": "The perfect POLY asset collection.",
    "i": "https://hb.imgix.net/0430e91192f933715148e3bc5daf19f3c55d0b30.jpg?auto=compress,format&fit=crop&h=353&w=616&s=b8e31f55ee73d89046ea0ba06f940695",
-   "e": 1791655200000
+   "e": 1792260000000
   },
   {
    "u": "/software/create-magic-with-magix-software",
@@ -92,6 +92,13 @@
    "e": 1791914400000
   },
   {
+   "u": "/software/make-your-own-games-in-unreal-software",
+   "n": "Make Your Own Games In Unreal",
+   "b": "Fine-tune your game dev skills!",
+   "i": "https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ba74b4e889e1eb12d1344b824fadc9e8",
+   "e": 1793296800000
+  },
+  {
    "u": "/software/mega-unreal-engine-bundle-software",
    "n": "Mega Unreal Engine Bundle",
    "b": "Upgrade your Unreal Engine asset library",
@@ -104,13 +111,6 @@
    "b": "Imagine your future as a game developer!",
    "i": "https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&fit=crop&h=353&w=616&s=82535934cf90f2d06ee046e42a9b738f",
    "e": 1791914400000
-  },
-  {
-   "u": "/software/make-your-own-games-in-unreal-software",
-   "n": "Make Your Own Games In Unreal",
-   "b": "Fine-tune your game dev skills!",
-   "i": "https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ba74b4e889e1eb12d1344b824fadc9e8",
-   "e": 1793296800000
   },
   {
    "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
