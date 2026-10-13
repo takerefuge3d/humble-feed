@@ -22,6 +22,13 @@
    "e": 1793210400000
   },
   {
+   "u": "/software/map-making-mega-bundle-last-chance-software",
+   "n": "Map Making MEGA Bundle Last Chance",
+   "b": "Chart your own path to map making",
+   "i": "https://hb.imgix.net/d190375b2881929ef71352004f5c67ea6b88190a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=322f6ef9d34da417d748aae1d85ffca7",
+   "e": 1793732400000
+  },
+  {
    "u": "/software/best-synty-game-dev-assets-bundle-6-software",
    "n": "Best of Synty Game Dev Assets Bundle 6",
    "b": "Scene setting assets by Synty Studios",
@@ -29,11 +36,11 @@
    "e": 1792519200000
   },
   {
-   "u": "/software/complete-java-developer-bundle-software",
-   "n": "The Complete Java Developer Bundle",
-   "b": "Gotta have your Java",
-   "i": "https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2393c7cd1f61213918020cbc28be6b4f",
-   "e": 1793210400000
+   "u": "/software/mega-unreal-engine-bundle-software",
+   "n": "Mega Unreal Engine Bundle",
+   "b": "Upgrade your Unreal Engine asset library",
+   "i": "https://hb.imgix.net/a9616ec83451752a4a7e56d1b2ec2dd3bea0268d.jpg?auto=compress,format&fit=crop&h=353&w=616&s=80efb42cb03868b76c71d78a08470bca",
+   "e": 1792432800000
   },
   {
    "u": "/software/skullforge-studios-arsenal-mega-bundle-software",
@@ -41,6 +48,41 @@
    "b": "Up your Arsenal!",
    "i": "https://hb.imgix.net/c9eb0ba119f7c7234b5fb3383fb2c407ec54bf55.jpg?auto=compress,format&fit=crop&h=353&w=616&s=78f9b22556cc7c994d3203d8785e0dbc",
    "e": 1792087200000
+  },
+  {
+   "u": "/software/complete-claude-and-anthropic-certification-bundle-software",
+   "n": "The Complete Claude and Anthropic Certification Bundle",
+   "b": "Code it with Claude",
+   "i": "https://hb.imgix.net/47c11f8d0dc413678432e3f0cb06825aa34324c0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fa0789f9ddaf66d88b72f1c5a6db477b",
+   "e": 1792346400000
+  },
+  {
+   "u": "/software/learn-to-make-games-in-godot-2026-software",
+   "n": "Learn to Make Games in GODOT 2026",
+   "b": "Imagine your future as a game developer!",
+   "i": "https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&fit=crop&h=353&w=616&s=82535934cf90f2d06ee046e42a9b738f",
+   "e": 1793124000000
+  },
+  {
+   "u": "/software/best-core-game-dev-assets-tools-megabundle-software",
+   "n": "Best Core Game Dev Assets & Tools Megabundle",
+   "b": "Build better games, faster",
+   "i": "https://hb.imgix.net/13d68fc2a5f0ee7700d4646c7585d21083af234f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d79b42f487b76b512e18b931fc529dea",
+   "e": 1792087200000
+  },
+  {
+   "u": "/software/ultimate-sfx-for-games-software",
+   "n": "Ultimate SFX for Games",
+   "b": "Tons of SFX? Sounds great!",
+   "i": "https://hb.imgix.net/f318723cb142f3c24d23d34bb9a7028fb0447ce7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=85d901e8ddd372b7618b5f21971223c3",
+   "e": 1792087200000
+  },
+  {
+   "u": "/software/complete-java-developer-bundle-software",
+   "n": "The Complete Java Developer Bundle",
+   "b": "Gotta have your Java",
+   "i": "https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2393c7cd1f61213918020cbc28be6b4f",
+   "e": 1793210400000
   },
   {
    "u": "/software/poly-game-dev-assets-collection-3-software",
@@ -57,13 +99,6 @@
    "e": 1792173600000
   },
   {
-   "u": "/software/complete-claude-and-anthropic-certification-bundle-software",
-   "n": "The Complete Claude and Anthropic Certification Bundle",
-   "b": "Code it with Claude",
-   "i": "https://hb.imgix.net/47c11f8d0dc413678432e3f0cb06825aa34324c0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fa0789f9ddaf66d88b72f1c5a6db477b",
-   "e": 1792346400000
-  },
-  {
    "u": "/software/backrooms-and-liminal-world-builder-bundle-software",
    "n": "Backrooms and Liminal World Builder Bundle",
    "b": "Create the next Backrooms!",
@@ -76,34 +111,6 @@
    "b": "Elite animations for professionals and digital artists",
    "i": "https://hb.imgix.net/9a8180989947c8cd1594b150804c7a0cce2b414c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2cd03227f78eeec91e7fbc52e9d3f7a5",
    "e": 1792000800000
-  },
-  {
-   "u": "/software/modern-ai-game-dev-crash-course-software",
-   "n": "Modern A.I. Game Dev Crash Course",
-   "b": "Your crash course in AI game development",
-   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
-   "e": 1793732400000
-  },
-  {
-   "u": "/software/map-making-mega-bundle-last-chance-software",
-   "n": "Map Making MEGA Bundle Last Chance",
-   "b": "Chart your own path to map making",
-   "i": "https://hb.imgix.net/d190375b2881929ef71352004f5c67ea6b88190a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=322f6ef9d34da417d748aae1d85ffca7",
-   "e": 1793732400000
-  },
-  {
-   "u": "/software/mega-unreal-engine-bundle-software",
-   "n": "Mega Unreal Engine Bundle",
-   "b": "Upgrade your Unreal Engine asset library",
-   "i": "https://hb.imgix.net/a9616ec83451752a4a7e56d1b2ec2dd3bea0268d.jpg?auto=compress,format&fit=crop&h=353&w=616&s=80efb42cb03868b76c71d78a08470bca",
-   "e": 1792432800000
-  },
-  {
-   "u": "/software/learn-to-make-games-in-godot-2026-software",
-   "n": "Learn to Make Games in GODOT 2026",
-   "b": "Imagine your future as a game developer!",
-   "i": "https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&fit=crop&h=353&w=616&s=82535934cf90f2d06ee046e42a9b738f",
-   "e": 1793124000000
   },
   {
    "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
@@ -141,13 +148,6 @@
    "e": 1792864800000
   },
   {
-   "u": "/software/best-core-game-dev-assets-tools-megabundle-software",
-   "n": "Best Core Game Dev Assets & Tools Megabundle",
-   "b": "Build better games, faster",
-   "i": "https://hb.imgix.net/13d68fc2a5f0ee7700d4646c7585d21083af234f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d79b42f487b76b512e18b931fc529dea",
-   "e": 1792087200000
-  },
-  {
    "u": "/software/make-your-own-games-in-unreal-software",
    "n": "Make Your Own Games In Unreal",
    "b": "Fine-tune your game dev skills!",
@@ -155,18 +155,18 @@
    "e": 1793296800000
   },
   {
-   "u": "/software/ultimate-sfx-for-games-software",
-   "n": "Ultimate SFX for Games",
-   "b": "Tons of SFX? Sounds great!",
-   "i": "https://hb.imgix.net/f318723cb142f3c24d23d34bb9a7028fb0447ce7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=85d901e8ddd372b7618b5f21971223c3",
-   "e": 1792087200000
-  },
-  {
    "u": "/software/game-dev-mega-cities-software",
    "n": "Game Dev Mega Cities",
    "b": "Build next-gen mega cities with 500+ Assets!",
    "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
    "e": 1792519200000
+  },
+  {
+   "u": "/software/modern-ai-game-dev-crash-course-software",
+   "n": "Modern A.I. Game Dev Crash Course",
+   "b": "Your crash course in AI game development",
+   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
+   "e": 1793732400000
   },
   {
    "u": "/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
