@@ -15,11 +15,11 @@
    "e": 1793037600000
   },
   {
-   "u": "/software/unreal-engine-realtime-simulation-fx-suite-software",
-   "n": "Unreal Engine Real-Time Simulation & FX Suite",
-   "b": "Add real-life richness to your next build",
-   "i": "https://hb.imgix.net/f167efb5143e87c82a2a6fbde8028dfb7adbde73.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d4fcdcafb2445a5101b83beb7e55514",
-   "e": 1791828000000
+   "u": "/software/unity-powerhouse-bundle-software",
+   "n": "Unity Powerhouse Bundle",
+   "b": "Build your world with Unity",
+   "i": "https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f89952f7d9a6ccd353dfb9163763b45f",
+   "e": 1793210400000
   },
   {
    "u": "/software/best-synty-game-dev-assets-bundle-6-software",
@@ -27,13 +27,6 @@
    "b": "Scene setting assets by Synty Studios",
    "i": "https://hb.imgix.net/a19f040608cd25d712920bc835e8a491ec5cd2f2.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7b1e114a12c1b3c97cf8f99994838b83",
    "e": 1791914400000
-  },
-  {
-   "u": "/software/unity-powerhouse-bundle-software",
-   "n": "Unity Powerhouse Bundle",
-   "b": "Build your world with Unity",
-   "i": "https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f89952f7d9a6ccd353dfb9163763b45f",
-   "e": 1793210400000
   },
   {
    "u": "/software/complete-java-developer-bundle-software",
@@ -85,13 +78,6 @@
    "e": 1792000800000
   },
   {
-   "u": "/software/ultimate-game-audio-bundle-access-300000-premium-music-and-sound-effects-software",
-   "n": "Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects",
-   "b": "Thousands of audio assets at your fingertips",
-   "i": "https://hb.imgix.net/f76c5f2f6c8c6d0d8751c2029ac88e084963016f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=35ba2f7e49a58868588e883b91ec50e3",
-   "e": 1791914400000
-  },
-  {
    "u": "/software/mega-unreal-engine-bundle-software",
    "n": "Mega Unreal Engine Bundle",
    "b": "Upgrade your Unreal Engine asset library",
@@ -99,10 +85,24 @@
    "e": 1792432800000
   },
   {
-   "u": "/software/learn-to-make-games-in-godot-2026-software",
-   "n": "Learn to Make Games in GODOT 2026",
-   "b": "Imagine your future as a game developer!",
-   "i": "https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&fit=crop&h=353&w=616&s=82535934cf90f2d06ee046e42a9b738f",
+   "u": "/software/software-engineering-2026-software",
+   "n": "Software Engineering 2026",
+   "b": "Supercharge your software engineering skills.",
+   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
+   "e": 1793646000000
+  },
+  {
+   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
+   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
+   "b": "Spine-crawling Lovecraftian miniatures await.",
+   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
+   "e": 1791914400000
+  },
+  {
+   "u": "/software/ultimate-game-audio-bundle-access-300000-premium-music-and-sound-effects-software",
+   "n": "Ultimate Game Audio Bundle - Access 300,000 Premium Music and Sound Effects",
+   "b": "Thousands of audio assets at your fingertips",
+   "i": "https://hb.imgix.net/f76c5f2f6c8c6d0d8751c2029ac88e084963016f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=35ba2f7e49a58868588e883b91ec50e3",
    "e": 1791914400000
   },
   {
@@ -113,10 +113,10 @@
    "e": 1793296800000
   },
   {
-   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
-   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
-   "b": "Spine-crawling Lovecraftian miniatures await.",
-   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
+   "u": "/software/learn-to-make-games-in-godot-2026-software",
+   "n": "Learn to Make Games in GODOT 2026",
+   "b": "Imagine your future as a game developer!",
+   "i": "https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&fit=crop&h=353&w=616&s=82535934cf90f2d06ee046e42a9b738f",
    "e": 1791914400000
   },
   {
