@@ -47,7 +47,7 @@
    "n": "SkullForge Studios Arsenal Mega Bundle",
    "b": "Up your Arsenal!",
    "i": "https://hb.imgix.net/c9eb0ba119f7c7234b5fb3383fb2c407ec54bf55.jpg?auto=compress,format&fit=crop&h=353&w=616&s=78f9b22556cc7c994d3203d8785e0dbc",
-   "e": 1792087200000
+   "e": 1792692000000
   },
   {
    "u": "/software/complete-claude-and-anthropic-certification-bundle-software",
@@ -68,14 +68,14 @@
    "n": "Best Core Game Dev Assets & Tools Megabundle",
    "b": "Build better games, faster",
    "i": "https://hb.imgix.net/13d68fc2a5f0ee7700d4646c7585d21083af234f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d79b42f487b76b512e18b931fc529dea",
-   "e": 1792087200000
+   "e": 1792692000000
   },
   {
    "u": "/software/ultimate-sfx-for-games-software",
    "n": "Ultimate SFX for Games",
    "b": "Tons of SFX? Sounds great!",
    "i": "https://hb.imgix.net/f318723cb142f3c24d23d34bb9a7028fb0447ce7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=85d901e8ddd372b7618b5f21971223c3",
-   "e": 1792087200000
+   "e": 1792692000000
   },
   {
    "u": "/software/complete-java-developer-bundle-software",
@@ -106,6 +106,13 @@
    "e": 1792519200000
   },
   {
+   "u": "/software/premium-assets-unreal-game-dev-collection-software",
+   "n": "Premium Assets: Unreal Game Dev Collection",
+   "b": "Step into your own Unreal worlds.",
+   "i": "https://hb.imgix.net/c612ec42302001a45502c7788509bbc2bf151977.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ac45ba3199c179a431241699d091fc1f",
+   "e": 1793905200000
+  },
+  {
    "u": "/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
    "n": "Miniatures and Mayhem: Adventures, Supplements and 3D Printables",
    "b": "Madness, printed and printable",
@@ -120,6 +127,13 @@
    "e": 1792519200000
   },
   {
+   "u": "/software/modern-ai-game-dev-crash-course-software",
+   "n": "Modern A.I. Game Dev Crash Course",
+   "b": "Your crash course in AI game development",
+   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
+   "e": 1793732400000
+  },
+  {
    "u": "/software/make-your-own-games-in-unreal-software",
    "n": "Make Your Own Games In Unreal",
    "b": "Fine-tune your game dev skills!",
@@ -132,13 +146,6 @@
    "b": "Supercharge your software engineering skills.",
    "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
    "e": 1793646000000
-  },
-  {
-   "u": "/software/modern-ai-game-dev-crash-course-software",
-   "n": "Modern A.I. Game Dev Crash Course",
-   "b": "Your crash course in AI game development",
-   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
-   "e": 1793732400000
   },
   {
    "u": "/software/complete-ai-solopreneur-bundle-software",
