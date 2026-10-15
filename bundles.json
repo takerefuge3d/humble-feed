@@ -106,18 +106,18 @@
    "e": 1792519200000
   },
   {
-   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
-   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
-   "b": "Spine-crawling Lovecraftian miniatures await.",
-   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
-   "e": 1792519200000
-  },
-  {
    "u": "/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
    "n": "Miniatures and Mayhem: Adventures, Supplements and 3D Printables",
    "b": "Madness, printed and printable",
    "i": "https://hb.imgix.net/ca4849b3076cd3608c03e07dc97a9c27047a0b9a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=40ee49830e1f8dffcc2b281cf1a29697",
    "e": 1792173600000
+  },
+  {
+   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
+   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
+   "b": "Spine-crawling Lovecraftian miniatures await.",
+   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
+   "e": 1792519200000
   },
   {
    "u": "/software/make-your-own-games-in-unreal-software",
