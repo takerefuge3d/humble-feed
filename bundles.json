@@ -15,13 +15,6 @@
    "e": 1793037600000
   },
   {
-   "u": "/software/unity-powerhouse-bundle-software",
-   "n": "Unity Powerhouse Bundle",
-   "b": "Build your world with Unity",
-   "i": "https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f89952f7d9a6ccd353dfb9163763b45f",
-   "e": 1793210400000
-  },
-  {
    "u": "/software/map-making-mega-bundle-last-chance-software",
    "n": "Map Making MEGA Bundle Last Chance",
    "b": "Chart your own path to map making",
@@ -78,6 +71,13 @@
    "e": 1792692000000
   },
   {
+   "u": "/software/unity-powerhouse-bundle-software",
+   "n": "Unity Powerhouse Bundle",
+   "b": "Build your world with Unity",
+   "i": "https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f89952f7d9a6ccd353dfb9163763b45f",
+   "e": 1793210400000
+  },
+  {
    "u": "/software/complete-java-developer-bundle-software",
    "n": "The Complete Java Developer Bundle",
    "b": "Gotta have your Java",
@@ -96,7 +96,7 @@
    "n": "Create Magic with Magix",
    "b": "Create audio magic with Magix",
    "i": "https://hb.imgix.net/0e7fefd699ea0726fdb98033e59175e318728c1f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=899374340d496fbc046751cea8c5f00c",
-   "e": 1792173600000
+   "e": 1792778400000
   },
   {
    "u": "/software/backrooms-and-liminal-world-builder-bundle-software",
@@ -106,6 +106,13 @@
    "e": 1792519200000
   },
   {
+   "u": "/software/castles-crusades-rpg-experience-software",
+   "n": "Castles & Crusades RPG Experience",
+   "b": "Create your own adventure",
+   "i": "https://hb.imgix.net/327c799c3c6addfea5e2373c076e16c41cb79583.jpg?auto=compress,format&fit=crop&h=353&w=616&s=87750e74ffaba5a18739b83a49b245f2",
+   "e": 1793991600000
+  },
+  {
    "u": "/software/premium-assets-unreal-game-dev-collection-software",
    "n": "Premium Assets: Unreal Game Dev Collection",
    "b": "Step into your own Unreal worlds.",
@@ -113,11 +120,11 @@
    "e": 1793905200000
   },
   {
-   "u": "/software/miniatures-and-mayhem-adventures-supplements-and-3d-printables-software",
-   "n": "Miniatures and Mayhem: Adventures, Supplements and 3D Printables",
-   "b": "Madness, printed and printable",
-   "i": "https://hb.imgix.net/ca4849b3076cd3608c03e07dc97a9c27047a0b9a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=40ee49830e1f8dffcc2b281cf1a29697",
-   "e": 1792173600000
+   "u": "/software/software-engineering-2026-software",
+   "n": "Software Engineering 2026",
+   "b": "Supercharge your software engineering skills.",
+   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
+   "e": 1793646000000
   },
   {
    "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
@@ -134,11 +141,11 @@
    "e": 1793296800000
   },
   {
-   "u": "/software/software-engineering-2026-software",
-   "n": "Software Engineering 2026",
-   "b": "Supercharge your software engineering skills.",
-   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
-   "e": 1793646000000
+   "u": "/software/modern-ai-game-dev-crash-course-software",
+   "n": "Modern A.I. Game Dev Crash Course",
+   "b": "Your crash course in AI game development",
+   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
+   "e": 1793732400000
   },
   {
    "u": "/software/complete-ai-solopreneur-bundle-software",
@@ -160,13 +167,6 @@
    "b": "Build next-gen mega cities with 500+ Assets!",
    "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
    "e": 1792519200000
-  },
-  {
-   "u": "/software/modern-ai-game-dev-crash-course-software",
-   "n": "Modern A.I. Game Dev Crash Course",
-   "b": "Your crash course in AI game development",
-   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
-   "e": 1793732400000
   },
   {
    "u": "/software/picture-perfect-ultimate-photo-video-bundle-software",
