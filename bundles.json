@@ -40,7 +40,7 @@
    "n": "Mega Unreal Engine Bundle",
    "b": "Upgrade your Unreal Engine asset library",
    "i": "https://hb.imgix.net/a9616ec83451752a4a7e56d1b2ec2dd3bea0268d.jpg?auto=compress,format&fit=crop&h=353&w=616&s=80efb42cb03868b76c71d78a08470bca",
-   "e": 1792432800000
+   "e": 1793037600000
   },
   {
    "u": "/software/skullforge-studios-arsenal-mega-bundle-software",
@@ -106,11 +106,18 @@
    "e": 1792519200000
   },
   {
-   "u": "/software/godot-game-development-mega-bundle-20-complete-game-templates-software",
-   "n": "Godot Game Development Mega Bundle - 20 Complete Game Templates",
-   "b": "Build games without the hassle.",
-   "i": "https://hb.imgix.net/54b9f479b4f047779885e9f03180c9a6f7feac20.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7521c3ecf5826e9e5b6e44adbebd7cf9",
-   "e": 1794164400000
+   "u": "/software/game-dev-mega-cities-software",
+   "n": "Game Dev Mega Cities",
+   "b": "Build next-gen mega cities with 500+ Assets!",
+   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
+   "e": 1792519200000
+  },
+  {
+   "u": "/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
+   "n": "The Complete Works - A Massive collection of Royalty-Free Audio Tracks",
+   "b": "Unlock royalty-free music for every occasion.",
+   "i": "https://hb.imgix.net/021e95beb13199aa2e08264a4a182af9e6385e84.jpg?auto=compress,format&fit=crop&h=353&w=616&s=913d31a27d9df0fc338a432591b105ff",
+   "e": 1794250800000
   },
   {
    "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
@@ -118,6 +125,13 @@
    "b": "Transform your ideas with Higgsfield",
    "i": "https://hb.imgix.net/e9b8dd7ba0257a899fe47b6c86305e753fc53b7f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=986a535a153a1550ff5169383c4587e9",
    "e": 1794078000000
+  },
+  {
+   "u": "/software/godot-game-development-mega-bundle-20-complete-game-templates-software",
+   "n": "Godot Game Development Mega Bundle - 20 Complete Game Templates",
+   "b": "Build games without the hassle.",
+   "i": "https://hb.imgix.net/54b9f479b4f047779885e9f03180c9a6f7feac20.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7521c3ecf5826e9e5b6e44adbebd7cf9",
+   "e": 1794164400000
   },
   {
    "u": "/software/modern-ai-game-dev-crash-course-software",
@@ -160,13 +174,6 @@
    "b": "Bring your dungeon to life",
    "i": "https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&fit=crop&h=353&w=616&s=630e5ace808dbf9274acdb804930191c",
    "e": 1792864800000
-  },
-  {
-   "u": "/software/game-dev-mega-cities-software",
-   "n": "Game Dev Mega Cities",
-   "b": "Build next-gen mega cities with 500+ Assets!",
-   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
-   "e": 1792519200000
   },
   {
    "u": "/software/picture-perfect-ultimate-photo-video-bundle-software",
