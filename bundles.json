@@ -33,7 +33,7 @@
    "n": "Best of Synty Game Dev Assets Bundle 6",
    "b": "Scene setting assets by Synty Studios",
    "i": "https://hb.imgix.net/a19f040608cd25d712920bc835e8a491ec5cd2f2.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7b1e114a12c1b3c97cf8f99994838b83",
-   "e": 1792519200000
+   "e": 1793124000000
   },
   {
    "u": "/software/mega-unreal-engine-bundle-software",
@@ -99,11 +99,11 @@
    "e": 1792778400000
   },
   {
-   "u": "/software/backrooms-and-liminal-world-builder-bundle-software",
-   "n": "Backrooms and Liminal World Builder Bundle",
-   "b": "Create the next Backrooms!",
-   "i": "https://hb.imgix.net/25da09163d5daa175a59ab3c8fc0b8bc026677a9.jpg?auto=compress,format&fit=crop&h=353&w=616&s=154b76a6da598040b47717b309bdddc3",
-   "e": 1792519200000
+   "u": "/software/game-dev-mega-cities-software",
+   "n": "Game Dev Mega Cities",
+   "b": "Build next-gen mega cities with 500+ Assets!",
+   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
+   "e": 1793124000000
   },
   {
    "u": "/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
@@ -111,13 +111,6 @@
    "b": "Unlock royalty-free music for every occasion.",
    "i": "https://hb.imgix.net/021e95beb13199aa2e08264a4a182af9e6385e84.jpg?auto=compress,format&fit=crop&h=353&w=616&s=913d31a27d9df0fc338a432591b105ff",
    "e": 1794250800000
-  },
-  {
-   "u": "/software/game-dev-mega-cities-software",
-   "n": "Game Dev Mega Cities",
-   "b": "Build next-gen mega cities with 500+ Assets!",
-   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
-   "e": 1792519200000
   },
   {
    "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
@@ -141,25 +134,18 @@
    "e": 1794164400000
   },
   {
-   "u": "/software/modern-ai-game-dev-crash-course-software",
-   "n": "Modern A.I. Game Dev Crash Course",
-   "b": "Your crash course in AI game development",
-   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
-   "e": 1793732400000
-  },
-  {
-   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
-   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
-   "b": "Spine-crawling Lovecraftian miniatures await.",
-   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
-   "e": 1792519200000
-  },
-  {
    "u": "/software/make-your-own-games-in-unreal-software",
    "n": "Make Your Own Games In Unreal",
    "b": "Fine-tune your game dev skills!",
    "i": "https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ba74b4e889e1eb12d1344b824fadc9e8",
    "e": 1793296800000
+  },
+  {
+   "u": "/software/modern-ai-game-dev-crash-course-software",
+   "n": "Modern A.I. Game Dev Crash Course",
+   "b": "Your crash course in AI game development",
+   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
+   "e": 1793732400000
   },
   {
    "u": "/software/complete-ai-solopreneur-bundle-software",
