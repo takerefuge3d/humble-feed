@@ -127,13 +127,6 @@
    "e": 1794078000000
   },
   {
-   "u": "/software/godot-game-development-mega-bundle-20-complete-game-templates-software",
-   "n": "Godot Game Development Mega Bundle - 20 Complete Game Templates",
-   "b": "Build games without the hassle.",
-   "i": "https://hb.imgix.net/54b9f479b4f047779885e9f03180c9a6f7feac20.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7521c3ecf5826e9e5b6e44adbebd7cf9",
-   "e": 1794164400000
-  },
-  {
    "u": "/software/software-engineering-2026-software",
    "n": "Software Engineering 2026",
    "b": "Supercharge your software engineering skills.",
@@ -141,11 +134,11 @@
    "e": 1793646000000
   },
   {
-   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
-   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
-   "b": "Spine-crawling Lovecraftian miniatures await.",
-   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
-   "e": 1792519200000
+   "u": "/software/godot-game-development-mega-bundle-20-complete-game-templates-software",
+   "n": "Godot Game Development Mega Bundle - 20 Complete Game Templates",
+   "b": "Build games without the hassle.",
+   "i": "https://hb.imgix.net/54b9f479b4f047779885e9f03180c9a6f7feac20.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7521c3ecf5826e9e5b6e44adbebd7cf9",
+   "e": 1794164400000
   },
   {
    "u": "/software/modern-ai-game-dev-crash-course-software",
@@ -153,6 +146,13 @@
    "b": "Your crash course in AI game development",
    "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
    "e": 1793732400000
+  },
+  {
+   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
+   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
+   "b": "Spine-crawling Lovecraftian miniatures await.",
+   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
+   "e": 1792519200000
   },
   {
    "u": "/software/make-your-own-games-in-unreal-software",
