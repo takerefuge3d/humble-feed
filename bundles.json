@@ -106,18 +106,18 @@
    "e": 1792519200000
   },
   {
-   "u": "/software/game-dev-mega-cities-software",
-   "n": "Game Dev Mega Cities",
-   "b": "Build next-gen mega cities with 500+ Assets!",
-   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
-   "e": 1792519200000
-  },
-  {
    "u": "/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
    "n": "The Complete Works - A Massive collection of Royalty-Free Audio Tracks",
    "b": "Unlock royalty-free music for every occasion.",
    "i": "https://hb.imgix.net/021e95beb13199aa2e08264a4a182af9e6385e84.jpg?auto=compress,format&fit=crop&h=353&w=616&s=913d31a27d9df0fc338a432591b105ff",
    "e": 1794250800000
+  },
+  {
+   "u": "/software/game-dev-mega-cities-software",
+   "n": "Game Dev Mega Cities",
+   "b": "Build next-gen mega cities with 500+ Assets!",
+   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
+   "e": 1792519200000
   },
   {
    "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
@@ -134,13 +134,6 @@
    "e": 1794164400000
   },
   {
-   "u": "/software/modern-ai-game-dev-crash-course-software",
-   "n": "Modern A.I. Game Dev Crash Course",
-   "b": "Your crash course in AI game development",
-   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
-   "e": 1793732400000
-  },
-  {
    "u": "/software/software-engineering-2026-software",
    "n": "Software Engineering 2026",
    "b": "Supercharge your software engineering skills.",
@@ -153,6 +146,13 @@
    "b": "Spine-crawling Lovecraftian miniatures await.",
    "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
    "e": 1792519200000
+  },
+  {
+   "u": "/software/modern-ai-game-dev-crash-course-software",
+   "n": "Modern A.I. Game Dev Crash Course",
+   "b": "Your crash course in AI game development",
+   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
+   "e": 1793732400000
   },
   {
    "u": "/software/make-your-own-games-in-unreal-software",
