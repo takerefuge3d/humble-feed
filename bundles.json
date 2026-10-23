@@ -106,13 +106,6 @@
    "e": 1793646000000
   },
   {
-   "u": "/software/undead-survival-horror-essentials-software",
-   "n": "Undead Survival & Horror Essentials",
-   "b": "Celebrate Halloween with horror assets.",
-   "i": "https://hb.imgix.net/54d7d51a71c486c45eccf00ce6d6eae4a4b6168b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d0c514c0b21ddb1322ee5f0cd3b6088a",
-   "e": 1794423600000
-  },
-  {
    "u": "/software/make-your-own-games-in-unreal-software",
    "n": "Make Your Own Games In Unreal",
    "b": "Fine-tune your game dev skills!",
@@ -127,11 +120,11 @@
    "e": 1793732400000
   },
   {
-   "u": "/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
-   "n": "The Complete Works - A Massive collection of Royalty-Free Audio Tracks",
-   "b": "Unlock royalty-free music for every occasion.",
-   "i": "https://hb.imgix.net/021e95beb13199aa2e08264a4a182af9e6385e84.jpg?auto=compress,format&fit=crop&h=353&w=616&s=913d31a27d9df0fc338a432591b105ff",
-   "e": 1794250800000
+   "u": "/software/undead-survival-horror-essentials-software",
+   "n": "Undead Survival & Horror Essentials",
+   "b": "Celebrate Halloween with horror assets.",
+   "i": "https://hb.imgix.net/54d7d51a71c486c45eccf00ce6d6eae4a4b6168b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d0c514c0b21ddb1322ee5f0cd3b6088a",
+   "e": 1794423600000
   },
   {
    "u": "/software/data-engineering-masterclass-software",
@@ -141,18 +134,11 @@
    "e": 1794510000000
   },
   {
-   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
-   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
-   "b": "Spine-crawling Lovecraftian miniatures await.",
-   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
-   "e": 1793124000000
-  },
-  {
-   "u": "/software/godot-game-development-mega-bundle-20-complete-game-templates-software",
-   "n": "Godot Game Development Mega Bundle - 20 Complete Game Templates",
-   "b": "Build games without the hassle.",
-   "i": "https://hb.imgix.net/54b9f479b4f047779885e9f03180c9a6f7feac20.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7521c3ecf5826e9e5b6e44adbebd7cf9",
-   "e": 1794164400000
+   "u": "/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
+   "n": "The Complete Works - A Massive collection of Royalty-Free Audio Tracks",
+   "b": "Unlock royalty-free music for every occasion.",
+   "i": "https://hb.imgix.net/021e95beb13199aa2e08264a4a182af9e6385e84.jpg?auto=compress,format&fit=crop&h=353&w=616&s=913d31a27d9df0fc338a432591b105ff",
+   "e": 1794250800000
   },
   {
    "u": "/software/complete-ai-solopreneur-bundle-software",
@@ -173,6 +159,20 @@
    "n": "Game Dev Mega Cities",
    "b": "Build next-gen mega cities with 500+ Assets!",
    "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
+   "e": 1793124000000
+  },
+  {
+   "u": "/software/godot-game-development-mega-bundle-20-complete-game-templates-software",
+   "n": "Godot Game Development Mega Bundle - 20 Complete Game Templates",
+   "b": "Build games without the hassle.",
+   "i": "https://hb.imgix.net/54b9f479b4f047779885e9f03180c9a6f7feac20.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7521c3ecf5826e9e5b6e44adbebd7cf9",
+   "e": 1794164400000
+  },
+  {
+   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
+   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
+   "b": "Spine-crawling Lovecraftian miniatures await.",
+   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
    "e": 1793124000000
   }
  ]
