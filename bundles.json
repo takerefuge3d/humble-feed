@@ -85,18 +85,18 @@
    "e": 1792864800000
   },
   {
-   "u": "/software/software-engineering-2026-software",
-   "n": "Software Engineering 2026",
-   "b": "Supercharge your software engineering skills.",
-   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
-   "e": 1793646000000
-  },
-  {
    "u": "/software/ultimate-python-machine-learning-ai-engineering-bundle-202-software",
    "n": "The Ultimate Python, Machine Learning & AI Engineering Bundle 202",
    "b": "Your future is powered by Python & AI.",
    "i": "https://hb.imgix.net/d7f5d474d097e28aa850c94e29a36aa553bac0d0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2485362dd35c7a82eb712bc14d4d55c9",
    "e": 1794596400000
+  },
+  {
+   "u": "/software/software-engineering-2026-software",
+   "n": "Software Engineering 2026",
+   "b": "Supercharge your software engineering skills.",
+   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
+   "e": 1793646000000
   },
   {
    "u": "/software/make-your-own-games-in-unreal-software",
@@ -106,18 +106,18 @@
    "e": 1793296800000
   },
   {
-   "u": "/software/modern-ai-game-dev-crash-course-software",
-   "n": "Modern A.I. Game Dev Crash Course",
-   "b": "Your crash course in AI game development",
-   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
-   "e": 1793732400000
-  },
-  {
    "u": "/software/data-engineering-masterclass-software",
    "n": "Data Engineering Masterclass",
    "b": "A masterclass in data engineering advancement",
    "i": "https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f2287fb7daa02a0e3e8726d3eb5c4910",
    "e": 1794510000000
+  },
+  {
+   "u": "/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
+   "n": "The Complete Works - A Massive collection of Royalty-Free Audio Tracks",
+   "b": "Unlock royalty-free music for every occasion.",
+   "i": "https://hb.imgix.net/021e95beb13199aa2e08264a4a182af9e6385e84.jpg?auto=compress,format&fit=crop&h=353&w=616&s=913d31a27d9df0fc338a432591b105ff",
+   "e": 1794250800000
   },
   {
    "u": "/software/undead-survival-horror-essentials-software",
@@ -127,11 +127,18 @@
    "e": 1794423600000
   },
   {
-   "u": "/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
-   "n": "The Complete Works - A Massive collection of Royalty-Free Audio Tracks",
-   "b": "Unlock royalty-free music for every occasion.",
-   "i": "https://hb.imgix.net/021e95beb13199aa2e08264a4a182af9e6385e84.jpg?auto=compress,format&fit=crop&h=353&w=616&s=913d31a27d9df0fc338a432591b105ff",
-   "e": 1794250800000
+   "u": "/software/modern-ai-game-dev-crash-course-software",
+   "n": "Modern A.I. Game Dev Crash Course",
+   "b": "Your crash course in AI game development",
+   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
+   "e": 1793732400000
+  },
+  {
+   "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
+   "n": "The Complete Higgsfield AI Video Creation Bundle",
+   "b": "Transform your ideas with Higgsfield",
+   "i": "https://hb.imgix.net/e9b8dd7ba0257a899fe47b6c86305e753fc53b7f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=986a535a153a1550ff5169383c4587e9",
+   "e": 1794078000000
   },
   {
    "u": "/software/complete-ai-solopreneur-bundle-software",
@@ -146,13 +153,6 @@
    "b": "Bring your dungeon to life",
    "i": "https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&fit=crop&h=353&w=616&s=630e5ace808dbf9274acdb804930191c",
    "e": 1792864800000
-  },
-  {
-   "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
-   "n": "The Complete Higgsfield AI Video Creation Bundle",
-   "b": "Transform your ideas with Higgsfield",
-   "i": "https://hb.imgix.net/e9b8dd7ba0257a899fe47b6c86305e753fc53b7f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=986a535a153a1550ff5169383c4587e9",
-   "e": 1794078000000
   },
   {
    "u": "/software/godot-game-development-mega-bundle-20-complete-game-templates-software",
