@@ -99,6 +99,13 @@
    "e": 1794250800000
   },
   {
+   "u": "/software/ultimate-python-machine-learning-ai-engineering-bundle-202-software",
+   "n": "The Ultimate Python, Machine Learning & AI Engineering Bundle 202",
+   "b": "Your future is powered by Python & AI.",
+   "i": "https://hb.imgix.net/d7f5d474d097e28aa850c94e29a36aa553bac0d0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2485362dd35c7a82eb712bc14d4d55c9",
+   "e": 1794596400000
+  },
+  {
    "u": "/software/make-your-own-games-in-unreal-software",
    "n": "Make Your Own Games In Unreal",
    "b": "Fine-tune your game dev skills!",
@@ -111,13 +118,6 @@
    "b": "A masterclass in data engineering advancement",
    "i": "https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f2287fb7daa02a0e3e8726d3eb5c4910",
    "e": 1794510000000
-  },
-  {
-   "u": "/software/ultimate-python-machine-learning-ai-engineering-bundle-202-software",
-   "n": "The Ultimate Python, Machine Learning & AI Engineering Bundle 202",
-   "b": "Your future is powered by Python & AI.",
-   "i": "https://hb.imgix.net/d7f5d474d097e28aa850c94e29a36aa553bac0d0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2485362dd35c7a82eb712bc14d4d55c9",
-   "e": 1794596400000
   },
   {
    "u": "/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
@@ -141,18 +141,18 @@
    "e": 1793732400000
   },
   {
-   "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
-   "n": "The Complete Higgsfield AI Video Creation Bundle",
-   "b": "Transform your ideas with Higgsfield",
-   "i": "https://hb.imgix.net/e9b8dd7ba0257a899fe47b6c86305e753fc53b7f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=986a535a153a1550ff5169383c4587e9",
-   "e": 1794078000000
-  },
-  {
    "u": "/software/godot-game-development-mega-bundle-20-complete-game-templates-software",
    "n": "Godot Game Development Mega Bundle - 20 Complete Game Templates",
    "b": "Build games without the hassle.",
    "i": "https://hb.imgix.net/54b9f479b4f047779885e9f03180c9a6f7feac20.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7521c3ecf5826e9e5b6e44adbebd7cf9",
    "e": 1794164400000
+  },
+  {
+   "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
+   "n": "The Complete Higgsfield AI Video Creation Bundle",
+   "b": "Transform your ideas with Higgsfield",
+   "i": "https://hb.imgix.net/e9b8dd7ba0257a899fe47b6c86305e753fc53b7f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=986a535a153a1550ff5169383c4587e9",
+   "e": 1794078000000
   },
   {
    "u": "/software/complete-ai-solopreneur-bundle-software",
