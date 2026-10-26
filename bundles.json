@@ -12,7 +12,7 @@
    "n": "World Builders: Horrors and Haunts",
    "b": "Fill your games with frights",
    "i": "https://hb.imgix.net/1e3a667bc61a77720d15b113086d4ff4e846ab84.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d579400c9a7a0d71c82e8b7dfd4b7c56",
-   "e": 1793037600000
+   "e": 1793646000000
   },
   {
    "u": "/software/map-making-mega-bundle-last-chance-software",
@@ -22,13 +22,6 @@
    "e": 1793732400000
   },
   {
-   "u": "/software/premium-assets-unreal-game-dev-collection-software",
-   "n": "Premium Assets: Unreal Game Dev Collection",
-   "b": "Step into your own Unreal worlds.",
-   "i": "https://hb.imgix.net/c612ec42302001a45502c7788509bbc2bf151977.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ac45ba3199c179a431241699d091fc1f",
-   "e": 1793905200000
-  },
-  {
    "u": "/software/best-synty-game-dev-assets-bundle-6-software",
    "n": "Best of Synty Game Dev Assets Bundle 6",
    "b": "Scene setting assets by Synty Studios",
@@ -36,11 +29,25 @@
    "e": 1793124000000
   },
   {
-   "u": "/software/mega-unreal-engine-bundle-software",
-   "n": "Mega Unreal Engine Bundle",
-   "b": "Upgrade your Unreal Engine asset library",
-   "i": "https://hb.imgix.net/a9616ec83451752a4a7e56d1b2ec2dd3bea0268d.jpg?auto=compress,format&fit=crop&h=353&w=616&s=80efb42cb03868b76c71d78a08470bca",
-   "e": 1793037600000
+   "u": "/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
+   "n": "The Complete Works - A Massive collection of Royalty-Free Audio Tracks",
+   "b": "Unlock royalty-free music for every occasion.",
+   "i": "https://hb.imgix.net/021e95beb13199aa2e08264a4a182af9e6385e84.jpg?auto=compress,format&fit=crop&h=353&w=616&s=913d31a27d9df0fc338a432591b105ff",
+   "e": 1794250800000
+  },
+  {
+   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
+   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
+   "b": "Spine-crawling Lovecraftian miniatures await.",
+   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
+   "e": 1793124000000
+  },
+  {
+   "u": "/software/blender-3d-game-development-bundle-software",
+   "n": "Blender 3D & Game Development Bundle",
+   "b": "Become a better Blender user today!",
+   "i": "https://hb.imgix.net/82f53e29a05043c13617145d169bdd8d15b8b41c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fed8a0218419fdb65ecece1d06faaf16",
+   "e": 1794682800000
   },
   {
    "u": "/software/learn-to-make-games-in-godot-2026-software",
@@ -50,17 +57,45 @@
    "e": 1793124000000
   },
   {
-   "u": "/software/best-core-game-dev-assets-tools-megabundle-software",
-   "n": "Best Core Game Dev Assets & Tools Megabundle",
-   "b": "Build better games, faster",
-   "i": "https://hb.imgix.net/13d68fc2a5f0ee7700d4646c7585d21083af234f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d79b42f487b76b512e18b931fc529dea",
-   "e": 1793296800000
-  },
-  {
    "u": "/software/ultimate-sfx-for-games-software",
    "n": "Ultimate SFX for Games",
    "b": "Tons of SFX? Sounds great!",
    "i": "https://hb.imgix.net/f318723cb142f3c24d23d34bb9a7028fb0447ce7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=85d901e8ddd372b7618b5f21971223c3",
+   "e": 1793296800000
+  },
+  {
+   "u": "/software/godot-game-development-mega-bundle-20-complete-game-templates-software",
+   "n": "Godot Game Development Mega Bundle - 20 Complete Game Templates",
+   "b": "Build games without the hassle.",
+   "i": "https://hb.imgix.net/54b9f479b4f047779885e9f03180c9a6f7feac20.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7521c3ecf5826e9e5b6e44adbebd7cf9",
+   "e": 1794164400000
+  },
+  {
+   "u": "/software/ultimate-python-machine-learning-ai-engineering-bundle-202-software",
+   "n": "The Ultimate Python, Machine Learning & AI Engineering Bundle 202",
+   "b": "Your future is powered by Python & AI.",
+   "i": "https://hb.imgix.net/d7f5d474d097e28aa850c94e29a36aa553bac0d0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2485362dd35c7a82eb712bc14d4d55c9",
+   "e": 1794596400000
+  },
+  {
+   "u": "/software/undead-survival-horror-essentials-software",
+   "n": "Undead Survival & Horror Essentials",
+   "b": "Celebrate Halloween with horror assets.",
+   "i": "https://hb.imgix.net/54d7d51a71c486c45eccf00ce6d6eae4a4b6168b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d0c514c0b21ddb1322ee5f0cd3b6088a",
+   "e": 1794423600000
+  },
+  {
+   "u": "/software/premium-assets-unreal-game-dev-collection-software",
+   "n": "Premium Assets: Unreal Game Dev Collection",
+   "b": "Step into your own Unreal worlds.",
+   "i": "https://hb.imgix.net/c612ec42302001a45502c7788509bbc2bf151977.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ac45ba3199c179a431241699d091fc1f",
+   "e": 1793905200000
+  },
+  {
+   "u": "/software/best-core-game-dev-assets-tools-megabundle-software",
+   "n": "Best Core Game Dev Assets & Tools Megabundle",
+   "b": "Build better games, faster",
+   "i": "https://hb.imgix.net/13d68fc2a5f0ee7700d4646c7585d21083af234f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d79b42f487b76b512e18b931fc529dea",
    "e": 1793296800000
   },
   {
@@ -78,25 +113,18 @@
    "e": 1793210400000
   },
   {
+   "u": "/software/underwater-creatures-mega-bundle-unreal-engine-unity-software",
+   "n": "Underwater Creatures Mega Bundle - Unreal Engine & Unity",
+   "b": "Make waves with detailed underwater creature assets!",
+   "i": "https://hb.imgix.net/bd38ff03953006dbc60a8f7195411401cefb7148.jpg?auto=compress,format&fit=crop&h=353&w=616&s=895910f6262bee826a1516e305a2f7e0",
+   "e": 1794855600000
+  },
+  {
    "u": "/software/software-engineering-2026-software",
    "n": "Software Engineering 2026",
    "b": "Supercharge your software engineering skills.",
    "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
    "e": 1793646000000
-  },
-  {
-   "u": "/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
-   "n": "The Complete Works - A Massive collection of Royalty-Free Audio Tracks",
-   "b": "Unlock royalty-free music for every occasion.",
-   "i": "https://hb.imgix.net/021e95beb13199aa2e08264a4a182af9e6385e84.jpg?auto=compress,format&fit=crop&h=353&w=616&s=913d31a27d9df0fc338a432591b105ff",
-   "e": 1794250800000
-  },
-  {
-   "u": "/software/data-engineering-masterclass-software",
-   "n": "Data Engineering Masterclass",
-   "b": "A masterclass in data engineering advancement",
-   "i": "https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f2287fb7daa02a0e3e8726d3eb5c4910",
-   "e": 1794510000000
   },
   {
    "u": "/software/make-your-own-games-in-unreal-software",
@@ -106,39 +134,18 @@
    "e": 1793296800000
   },
   {
+   "u": "/software/data-engineering-masterclass-software",
+   "n": "Data Engineering Masterclass",
+   "b": "A masterclass in data engineering advancement",
+   "i": "https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f2287fb7daa02a0e3e8726d3eb5c4910",
+   "e": 1794510000000
+  },
+  {
    "u": "/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
    "n": "Dungeon Adventures! - 3D Printable Miniatures & Scenery",
    "b": "Bring your dungeon to life",
    "i": "https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&fit=crop&h=353&w=616&s=630e5ace808dbf9274acdb804930191c",
    "e": 1793469600000
-  },
-  {
-   "u": "/software/blender-3d-game-development-bundle-software",
-   "n": "Blender 3D & Game Development Bundle",
-   "b": "Become a better Blender user today!",
-   "i": "https://hb.imgix.net/82f53e29a05043c13617145d169bdd8d15b8b41c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fed8a0218419fdb65ecece1d06faaf16",
-   "e": 1794682800000
-  },
-  {
-   "u": "/software/modern-ai-game-dev-crash-course-software",
-   "n": "Modern A.I. Game Dev Crash Course",
-   "b": "Your crash course in AI game development",
-   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
-   "e": 1793732400000
-  },
-  {
-   "u": "/software/ultimate-python-machine-learning-ai-engineering-bundle-202-software",
-   "n": "The Ultimate Python, Machine Learning & AI Engineering Bundle 202",
-   "b": "Your future is powered by Python & AI.",
-   "i": "https://hb.imgix.net/d7f5d474d097e28aa850c94e29a36aa553bac0d0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2485362dd35c7a82eb712bc14d4d55c9",
-   "e": 1794596400000
-  },
-  {
-   "u": "/software/undead-survival-horror-essentials-software",
-   "n": "Undead Survival & Horror Essentials",
-   "b": "Celebrate Halloween with horror assets.",
-   "i": "https://hb.imgix.net/54d7d51a71c486c45eccf00ce6d6eae4a4b6168b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d0c514c0b21ddb1322ee5f0cd3b6088a",
-   "e": 1794423600000
   },
   {
    "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
@@ -148,11 +155,11 @@
    "e": 1794078000000
   },
   {
-   "u": "/software/complete-ai-solopreneur-bundle-software",
-   "n": "The Complete AI Solopreneur Bundle",
-   "b": "Become your own business",
-   "i": "https://hb.imgix.net/637f71e8c077d934ab61250a205bdca00e26f336.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d4a7f6cb76e272e2d60def0850bf5766",
-   "e": 1793037600000
+   "u": "/software/modern-ai-game-dev-crash-course-software",
+   "n": "Modern A.I. Game Dev Crash Course",
+   "b": "Your crash course in AI game development",
+   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
+   "e": 1793732400000
   },
   {
    "u": "/software/game-dev-mega-cities-software",
@@ -160,20 +167,6 @@
    "b": "Build next-gen mega cities with 500+ Assets!",
    "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
    "e": 1793124000000
-  },
-  {
-   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
-   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
-   "b": "Spine-crawling Lovecraftian miniatures await.",
-   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
-   "e": 1793124000000
-  },
-  {
-   "u": "/software/godot-game-development-mega-bundle-20-complete-game-templates-software",
-   "n": "Godot Game Development Mega Bundle - 20 Complete Game Templates",
-   "b": "Build games without the hassle.",
-   "i": "https://hb.imgix.net/54b9f479b4f047779885e9f03180c9a6f7feac20.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7521c3ecf5826e9e5b6e44adbebd7cf9",
-   "e": 1794164400000
   }
  ]
 }
