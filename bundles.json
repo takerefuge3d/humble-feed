@@ -113,13 +113,6 @@
    "e": 1793210400000
   },
   {
-   "u": "/software/underwater-creatures-mega-bundle-unreal-engine-unity-software",
-   "n": "Underwater Creatures Mega Bundle - Unreal Engine & Unity",
-   "b": "Make waves with detailed underwater creature assets!",
-   "i": "https://hb.imgix.net/bd38ff03953006dbc60a8f7195411401cefb7148.jpg?auto=compress,format&fit=crop&h=353&w=616&s=895910f6262bee826a1516e305a2f7e0",
-   "e": 1794855600000
-  },
-  {
    "u": "/software/software-engineering-2026-software",
    "n": "Software Engineering 2026",
    "b": "Supercharge your software engineering skills.",
@@ -153,6 +146,13 @@
    "b": "Transform your ideas with Higgsfield",
    "i": "https://hb.imgix.net/e9b8dd7ba0257a899fe47b6c86305e753fc53b7f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=986a535a153a1550ff5169383c4587e9",
    "e": 1794078000000
+  },
+  {
+   "u": "/software/underwater-creatures-mega-bundle-unreal-engine-unity-software",
+   "n": "Underwater Creatures Mega Bundle - Unreal Engine & Unity",
+   "b": "Make waves with detailed underwater creature assets!",
+   "i": "https://hb.imgix.net/3f8df6c611d8096db2c87b2fd052872acea183f3.jpg?auto=compress,format&fit=crop&h=353&w=616&s=a7157c43a54612344099d534ebaf7acb",
+   "e": 1794855600000
   },
   {
    "u": "/software/modern-ai-game-dev-crash-course-software",
