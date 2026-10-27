@@ -22,13 +22,6 @@
    "e": 1793732400000
   },
   {
-   "u": "/software/best-synty-game-dev-assets-bundle-6-software",
-   "n": "Best of Synty Game Dev Assets Bundle 6",
-   "b": "Scene setting assets by Synty Studios",
-   "i": "https://hb.imgix.net/a19f040608cd25d712920bc835e8a491ec5cd2f2.jpg?auto=compress,format&fit=crop&h=353&w=616&s=7b1e114a12c1b3c97cf8f99994838b83",
-   "e": 1793124000000
-  },
-  {
    "u": "/software/complete-works-massive-collection-royaltyfree-audio-tracks-software",
    "n": "The Complete Works - A Massive collection of Royalty-Free Audio Tracks",
    "b": "Unlock royalty-free music for every occasion.",
@@ -36,25 +29,11 @@
    "e": 1794250800000
   },
   {
-   "u": "/software/lovecraftian-horrors-stl-miniatures-mega-bundle-nsminiatures-software",
-   "n": "Lovecraftian Horrors: STL Miniatures Mega Bundle by NSMiniatures",
-   "b": "Spine-crawling Lovecraftian miniatures await.",
-   "i": "https://hb.imgix.net/875a1e67b2ce60b099e041de77f0681050b230bb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f1b498a555a239324da986d0a7273c1",
-   "e": 1793124000000
-  },
-  {
    "u": "/software/blender-3d-game-development-bundle-software",
    "n": "Blender 3D & Game Development Bundle",
    "b": "Become a better Blender user today!",
    "i": "https://hb.imgix.net/82f53e29a05043c13617145d169bdd8d15b8b41c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fed8a0218419fdb65ecece1d06faaf16",
    "e": 1794682800000
-  },
-  {
-   "u": "/software/learn-to-make-games-in-godot-2026-software",
-   "n": "Learn to Make Games in GODOT 2026",
-   "b": "Imagine your future as a game developer!",
-   "i": "https://hb.imgix.net/4081672b8538873e43afe3538606c58884f73baf.jpg?auto=compress,format&fit=crop&h=353&w=616&s=82535934cf90f2d06ee046e42a9b738f",
-   "e": 1793124000000
   },
   {
    "u": "/software/ultimate-sfx-for-games-software",
@@ -113,6 +92,20 @@
    "e": 1793210400000
   },
   {
+   "u": "/software/vampire-masquerade-complete-v5-collection-for-alchemy-vtt-software",
+   "n": "Vampire: The Masquerade Complete V5 Collection for Alchemy VTT",
+   "b": "Sink your fangs in",
+   "i": "https://hb.imgix.net/ab5d39aa47f4d9fc15a668c071ce4fbb1c373265.jpg?auto=compress,format&fit=crop&h=353&w=616&s=3151f8f7c25b0d3a182bd71d28e61b78",
+   "e": 1794942000000
+  },
+  {
+   "u": "/software/ultimate-ai-image-toolkit-software",
+   "n": "The Ultimate AI Image Toolkit",
+   "b": "Your imagination, running on your own computer.",
+   "i": "https://hb.imgix.net/0c95d1284bfa9b8689bec3bc4da0b3f4f7a0180f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=eb04b93df679374c40c3141b12c11ca0",
+   "e": 1794942000000
+  },
+  {
    "u": "/software/software-engineering-2026-software",
    "n": "Software Engineering 2026",
    "b": "Supercharge your software engineering skills.",
@@ -120,11 +113,18 @@
    "e": 1793646000000
   },
   {
-   "u": "/software/make-your-own-games-in-unreal-software",
-   "n": "Make Your Own Games In Unreal",
-   "b": "Fine-tune your game dev skills!",
-   "i": "https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ba74b4e889e1eb12d1344b824fadc9e8",
-   "e": 1793296800000
+   "u": "/software/game-dev-mega-cities-software",
+   "n": "Game Dev Mega Cities",
+   "b": "Build next-gen mega cities with 500+ Assets!",
+   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
+   "e": 1793732400000
+  },
+  {
+   "u": "/software/underwater-creatures-mega-bundle-unreal-engine-unity-software",
+   "n": "Underwater Creatures Mega Bundle - Unreal Engine & Unity",
+   "b": "Make waves with detailed underwater creature assets!",
+   "i": "https://hb.imgix.net/bd38ff03953006dbc60a8f7195411401cefb7148.jpg?auto=compress,format&fit=crop&h=353&w=616&s=895910f6262bee826a1516e305a2f7e0",
+   "e": 1794855600000
   },
   {
    "u": "/software/data-engineering-masterclass-software",
@@ -134,13 +134,6 @@
    "e": 1794510000000
   },
   {
-   "u": "/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
-   "n": "Dungeon Adventures! - 3D Printable Miniatures & Scenery",
-   "b": "Bring your dungeon to life",
-   "i": "https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&fit=crop&h=353&w=616&s=630e5ace808dbf9274acdb804930191c",
-   "e": 1793469600000
-  },
-  {
    "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
    "n": "The Complete Higgsfield AI Video Creation Bundle",
    "b": "Transform your ideas with Higgsfield",
@@ -148,11 +141,11 @@
    "e": 1794078000000
   },
   {
-   "u": "/software/underwater-creatures-mega-bundle-unreal-engine-unity-software",
-   "n": "Underwater Creatures Mega Bundle - Unreal Engine & Unity",
-   "b": "Make waves with detailed underwater creature assets!",
-   "i": "https://hb.imgix.net/3f8df6c611d8096db2c87b2fd052872acea183f3.jpg?auto=compress,format&fit=crop&h=353&w=616&s=a7157c43a54612344099d534ebaf7acb",
-   "e": 1794855600000
+   "u": "/software/make-your-own-games-in-unreal-software",
+   "n": "Make Your Own Games In Unreal",
+   "b": "Fine-tune your game dev skills!",
+   "i": "https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ba74b4e889e1eb12d1344b824fadc9e8",
+   "e": 1793296800000
   },
   {
    "u": "/software/modern-ai-game-dev-crash-course-software",
@@ -162,11 +155,11 @@
    "e": 1793732400000
   },
   {
-   "u": "/software/game-dev-mega-cities-software",
-   "n": "Game Dev Mega Cities",
-   "b": "Build next-gen mega cities with 500+ Assets!",
-   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
-   "e": 1793124000000
+   "u": "/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
+   "n": "Dungeon Adventures! - 3D Printable Miniatures & Scenery",
+   "b": "Bring your dungeon to life",
+   "i": "https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&fit=crop&h=353&w=616&s=630e5ace808dbf9274acdb804930191c",
+   "e": 1793469600000
   }
  ]
 }
