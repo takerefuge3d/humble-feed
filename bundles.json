@@ -57,13 +57,6 @@
    "e": 1795028400000
   },
   {
-   "u": "/software/ultimate-sfx-for-games-software",
-   "n": "Ultimate SFX for Games",
-   "b": "Tons of SFX? Sounds great!",
-   "i": "https://hb.imgix.net/f318723cb142f3c24d23d34bb9a7028fb0447ce7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=85d901e8ddd372b7618b5f21971223c3",
-   "e": 1793296800000
-  },
-  {
    "u": "/software/godot-game-development-mega-bundle-20-complete-game-templates-software",
    "n": "Godot Game Development Mega Bundle - 20 Complete Game Templates",
    "b": "Build games without the hassle.",
@@ -92,13 +85,6 @@
    "e": 1793905200000
   },
   {
-   "u": "/software/best-core-game-dev-assets-tools-megabundle-software",
-   "n": "Best Core Game Dev Assets & Tools Megabundle",
-   "b": "Build better games, faster",
-   "i": "https://hb.imgix.net/13d68fc2a5f0ee7700d4646c7585d21083af234f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d79b42f487b76b512e18b931fc529dea",
-   "e": 1793296800000
-  },
-  {
    "u": "/software/unity-powerhouse-bundle-software",
    "n": "Unity Powerhouse Bundle",
    "b": "Build your world with Unity",
@@ -113,18 +99,18 @@
    "e": 1793818800000
   },
   {
-   "u": "/software/software-engineering-2026-software",
-   "n": "Software Engineering 2026",
-   "b": "Supercharge your software engineering skills.",
-   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
-   "e": 1793646000000
-  },
-  {
    "u": "/software/ultimate-ai-image-toolkit-software",
    "n": "The Ultimate AI Image Toolkit",
    "b": "Your imagination, running on your own computer.",
    "i": "https://hb.imgix.net/0c95d1284bfa9b8689bec3bc4da0b3f4f7a0180f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=eb04b93df679374c40c3141b12c11ca0",
    "e": 1794942000000
+  },
+  {
+   "u": "/software/software-engineering-2026-software",
+   "n": "Software Engineering 2026",
+   "b": "Supercharge your software engineering skills.",
+   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
+   "e": 1793646000000
   },
   {
    "u": "/software/underwater-creatures-mega-bundle-unreal-engine-unity-software",
@@ -141,11 +127,11 @@
    "e": 1794078000000
   },
   {
-   "u": "/software/make-your-own-games-in-unreal-software",
-   "n": "Make Your Own Games In Unreal",
-   "b": "Fine-tune your game dev skills!",
-   "i": "https://hb.imgix.net/3b4450d10fdb29377274782e5a4f053bffd4d896.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ba74b4e889e1eb12d1344b824fadc9e8",
-   "e": 1793296800000
+   "u": "/software/game-dev-mega-cities-software",
+   "n": "Game Dev Mega Cities",
+   "b": "Build next-gen mega cities with 500+ Assets!",
+   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
+   "e": 1793732400000
   },
   {
    "u": "/software/data-engineering-masterclass-software",
@@ -153,13 +139,6 @@
    "b": "A masterclass in data engineering advancement",
    "i": "https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f2287fb7daa02a0e3e8726d3eb5c4910",
    "e": 1794510000000
-  },
-  {
-   "u": "/software/game-dev-mega-cities-software",
-   "n": "Game Dev Mega Cities",
-   "b": "Build next-gen mega cities with 500+ Assets!",
-   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
-   "e": 1793732400000
   },
   {
    "u": "/software/modern-ai-game-dev-crash-course-software",
