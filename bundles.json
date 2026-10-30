@@ -99,13 +99,6 @@
    "e": 1793818800000
   },
   {
-   "u": "/software/ultimate-ai-image-toolkit-software",
-   "n": "The Ultimate AI Image Toolkit",
-   "b": "Your imagination, running on your own computer.",
-   "i": "https://hb.imgix.net/0c95d1284bfa9b8689bec3bc4da0b3f4f7a0180f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=eb04b93df679374c40c3141b12c11ca0",
-   "e": 1794942000000
-  },
-  {
    "u": "/software/software-engineering-2026-software",
    "n": "Software Engineering 2026",
    "b": "Supercharge your software engineering skills.",
@@ -113,18 +106,11 @@
    "e": 1793646000000
   },
   {
-   "u": "/software/data-engineering-masterclass-software",
-   "n": "Data Engineering Masterclass",
-   "b": "A masterclass in data engineering advancement",
-   "i": "https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f2287fb7daa02a0e3e8726d3eb5c4910",
-   "e": 1794510000000
-  },
-  {
-   "u": "/software/underwater-creatures-mega-bundle-unreal-engine-unity-software",
-   "n": "Underwater Creatures Mega Bundle - Unreal Engine & Unity",
-   "b": "Make waves with detailed underwater creature assets!",
-   "i": "https://hb.imgix.net/bd38ff03953006dbc60a8f7195411401cefb7148.jpg?auto=compress,format&fit=crop&h=353&w=616&s=895910f6262bee826a1516e305a2f7e0",
-   "e": 1794855600000
+   "u": "/software/ultimate-ai-image-toolkit-software",
+   "n": "The Ultimate AI Image Toolkit",
+   "b": "Your imagination, running on your own computer.",
+   "i": "https://hb.imgix.net/0c95d1284bfa9b8689bec3bc4da0b3f4f7a0180f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=eb04b93df679374c40c3141b12c11ca0",
+   "e": 1794942000000
   },
   {
    "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
@@ -139,6 +125,20 @@
    "b": "Build next-gen mega cities with 500+ Assets!",
    "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
    "e": 1793732400000
+  },
+  {
+   "u": "/software/underwater-creatures-mega-bundle-unreal-engine-unity-software",
+   "n": "Underwater Creatures Mega Bundle - Unreal Engine & Unity",
+   "b": "Make waves with detailed underwater creature assets!",
+   "i": "https://hb.imgix.net/bd38ff03953006dbc60a8f7195411401cefb7148.jpg?auto=compress,format&fit=crop&h=353&w=616&s=895910f6262bee826a1516e305a2f7e0",
+   "e": 1794855600000
+  },
+  {
+   "u": "/software/data-engineering-masterclass-software",
+   "n": "Data Engineering Masterclass",
+   "b": "A masterclass in data engineering advancement",
+   "i": "https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f2287fb7daa02a0e3e8726d3eb5c4910",
+   "e": 1794510000000
   },
   {
    "u": "/software/modern-ai-game-dev-crash-course-software",
