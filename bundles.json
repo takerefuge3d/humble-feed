@@ -113,17 +113,17 @@
    "e": 1794942000000
   },
   {
+   "u": "/software/modern-ai-game-dev-crash-course-software",
+   "n": "Modern A.I. Game Dev Crash Course",
+   "b": "Your crash course in AI game development",
+   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
+   "e": 1793732400000
+  },
+  {
    "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
    "n": "The Complete Higgsfield AI Video Creation Bundle",
    "b": "Transform your ideas with Higgsfield",
    "i": "https://hb.imgix.net/e9b8dd7ba0257a899fe47b6c86305e753fc53b7f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=986a535a153a1550ff5169383c4587e9",
-   "e": 1794078000000
-  },
-  {
-   "u": "/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
-   "n": "Dungeon Adventures! - 3D Printable Miniatures & Scenery",
-   "b": "Bring your dungeon to life",
-   "i": "https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&fit=crop&h=353&w=616&s=630e5ace808dbf9274acdb804930191c",
    "e": 1794078000000
   },
   {
@@ -148,11 +148,11 @@
    "e": 1794855600000
   },
   {
-   "u": "/software/modern-ai-game-dev-crash-course-software",
-   "n": "Modern A.I. Game Dev Crash Course",
-   "b": "Your crash course in AI game development",
-   "i": "https://hb.imgix.net/035315fa23316e080899e320c580c303f3dfcc03.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4168b7ed03c0e62a78a6bf89d344a43f",
-   "e": 1793732400000
+   "u": "/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
+   "n": "Dungeon Adventures! - 3D Printable Miniatures & Scenery",
+   "b": "Bring your dungeon to life",
+   "i": "https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&fit=crop&h=353&w=616&s=630e5ace808dbf9274acdb804930191c",
+   "e": 1794078000000
   }
  ]
 }
