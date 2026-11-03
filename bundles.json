@@ -5,7 +5,7 @@
    "n": "World Builders: Horrors and Haunts",
    "b": "Fill your games with frights",
    "i": "https://hb.imgix.net/1e3a667bc61a77720d15b113086d4ff4e846ab84.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d579400c9a7a0d71c82e8b7dfd4b7c56",
-   "e": 1793646000000
+   "e": 1794250800000
   },
   {
    "u": "/software/vampire-masquerade-complete-v5-collection-for-alchemy-vtt-software",
@@ -85,11 +85,25 @@
    "e": 1793818800000
   },
   {
+   "u": "/software/timeless-worlds-environment-packs-software",
+   "n": "Timeless Worlds - Environment Packs",
+   "b": "Create iconic worlds with 400+ assets!",
+   "i": "https://hb.imgix.net/f86b707b9844f4044fbbb7907869a11ffa9ff8a8.jpg?auto=compress,format&fit=crop&h=353&w=616&s=01b3a5c4de69a9cce45303bad378ef49",
+   "e": 1795460400000
+  },
+  {
    "u": "/software/freedom-to-create-with-corel-graphics-suite-2025-software-encore",
    "n": "Freedom to Create with COREL Graphics Suite 2025 Last Chance Encore",
    "b": "Grab CorelDRAW before it’s gone!",
    "i": "https://hb.imgix.net/ad83eb754243f058045dbcd0f551ca3d76975b16.jpg?auto=compress,format&fit=crop&h=353&w=616&s=29b5379da0ac1ced1912db4de5266431",
    "e": 1795719600000
+  },
+  {
+   "u": "/software/software-engineering-2026-software",
+   "n": "Software Engineering 2026",
+   "b": "Supercharge your software engineering skills.",
+   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
+   "e": 1794250800000
   },
   {
    "u": "/software/create-and-elevate-amazing-art-tools-from-corel-software-encore",
@@ -99,18 +113,18 @@
    "e": 1795762800000
   },
   {
-   "u": "/software/software-engineering-2026-software",
-   "n": "Software Engineering 2026",
-   "b": "Supercharge your software engineering skills.",
-   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
-   "e": 1793646000000
-  },
-  {
    "u": "/software/ultimate-ai-image-toolkit-software",
    "n": "The Ultimate AI Image Toolkit",
    "b": "Your imagination, running on your own computer.",
    "i": "https://hb.imgix.net/0c95d1284bfa9b8689bec3bc4da0b3f4f7a0180f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=eb04b93df679374c40c3141b12c11ca0",
    "e": 1794942000000
+  },
+  {
+   "u": "/software/game-dev-mega-cities-software",
+   "n": "Game Dev Mega Cities",
+   "b": "Build next-gen mega cities with 500+ Assets!",
+   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
+   "e": 1793732400000
   },
   {
    "u": "/software/modern-ai-game-dev-crash-course-software",
@@ -127,11 +141,11 @@
    "e": 1794078000000
   },
   {
-   "u": "/software/game-dev-mega-cities-software",
-   "n": "Game Dev Mega Cities",
-   "b": "Build next-gen mega cities with 500+ Assets!",
-   "i": "https://hb.imgix.net/945799c5687ee345b2dda534e587e7fbed95ffd6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=edde7725ed48f76bf0ecd2a7a89a2e14",
-   "e": 1793732400000
+   "u": "/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
+   "n": "Dungeon Adventures! - 3D Printable Miniatures & Scenery",
+   "b": "Bring your dungeon to life",
+   "i": "https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&fit=crop&h=353&w=616&s=630e5ace808dbf9274acdb804930191c",
+   "e": 1794078000000
   },
   {
    "u": "/software/data-engineering-masterclass-software",
@@ -146,13 +160,6 @@
    "b": "Make waves with detailed underwater creature assets!",
    "i": "https://hb.imgix.net/bd38ff03953006dbc60a8f7195411401cefb7148.jpg?auto=compress,format&fit=crop&h=353&w=616&s=895910f6262bee826a1516e305a2f7e0",
    "e": 1794855600000
-  },
-  {
-   "u": "/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
-   "n": "Dungeon Adventures! - 3D Printable Miniatures & Scenery",
-   "b": "Bring your dungeon to life",
-   "i": "https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&fit=crop&h=353&w=616&s=630e5ace808dbf9274acdb804930191c",
-   "e": 1794078000000
   }
  ]
 }
