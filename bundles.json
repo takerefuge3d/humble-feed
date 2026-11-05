@@ -78,20 +78,6 @@
    "e": 1794250800000
   },
   {
-   "u": "/software/unity-powerhouse-bundle-software",
-   "n": "Unity Powerhouse Bundle",
-   "b": "Build your world with Unity",
-   "i": "https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f89952f7d9a6ccd353dfb9163763b45f",
-   "e": 1794423600000
-  },
-  {
-   "u": "/software/complete-java-developer-bundle-software",
-   "n": "The Complete Java Developer Bundle",
-   "b": "Gotta have your Java",
-   "i": "https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2393c7cd1f61213918020cbc28be6b4f",
-   "e": 1794423600000
-  },
-  {
    "u": "/software/make-30-games-with-godot-unreal-unity-black-friday-bundle-software",
    "n": "Make 30 Games with Godot, Unreal & Unity - Black Friday Bundle",
    "b": "Create your own video games!",
@@ -104,20 +90,6 @@
    "b": "Become a better Blender user today!",
    "i": "https://hb.imgix.net/82f53e29a05043c13617145d169bdd8d15b8b41c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fed8a0218419fdb65ecece1d06faaf16",
    "e": 1794682800000
-  },
-  {
-   "u": "/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
-   "n": "Dungeon Adventures! - 3D Printable Miniatures & Scenery",
-   "b": "Bring your dungeon to life",
-   "i": "https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&fit=crop&h=353&w=616&s=630e5ace808dbf9274acdb804930191c",
-   "e": 1794078000000
-  },
-  {
-   "u": "/software/software-engineering-2026-software",
-   "n": "Software Engineering 2026",
-   "b": "Supercharge your software engineering skills.",
-   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
-   "e": 1794250800000
   },
   {
    "u": "/software/complete-higgsfield-ai-video-creation-bundle-software",
@@ -155,10 +127,38 @@
    "e": 1794855600000
   },
   {
+   "u": "/software/software-engineering-2026-software",
+   "n": "Software Engineering 2026",
+   "b": "Supercharge your software engineering skills.",
+   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
+   "e": 1794250800000
+  },
+  {
+   "u": "/software/complete-java-developer-bundle-software",
+   "n": "The Complete Java Developer Bundle",
+   "b": "Gotta have your Java",
+   "i": "https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2393c7cd1f61213918020cbc28be6b4f",
+   "e": 1794423600000
+  },
+  {
+   "u": "/software/dungeon-adventures-3d-printable-miniatures-scenery-software",
+   "n": "Dungeon Adventures! - 3D Printable Miniatures & Scenery",
+   "b": "Bring your dungeon to life",
+   "i": "https://hb.imgix.net/7354fc9f5e3c3edf7bedfca60a35ef1ec4a52d90.jpg?auto=compress,format&fit=crop&h=353&w=616&s=630e5ace808dbf9274acdb804930191c",
+   "e": 1794078000000
+  },
+  {
    "u": "/software/undead-survival-horror-essentials-software",
    "n": "Undead Survival & Horror Essentials",
    "b": "Celebrate Halloween with horror assets.",
    "i": "https://hb.imgix.net/54d7d51a71c486c45eccf00ce6d6eae4a4b6168b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d0c514c0b21ddb1322ee5f0cd3b6088a",
+   "e": 1794423600000
+  },
+  {
+   "u": "/software/unity-powerhouse-bundle-software",
+   "n": "Unity Powerhouse Bundle",
+   "b": "Build your world with Unity",
+   "i": "https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f89952f7d9a6ccd353dfb9163763b45f",
    "e": 1794423600000
   }
  ]
