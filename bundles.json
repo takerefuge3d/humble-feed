@@ -99,11 +99,11 @@
    "e": 1794510000000
   },
   {
-   "u": "/software/blender-3d-game-development-bundle-software",
-   "n": "Blender 3D & Game Development Bundle",
-   "b": "Become a better Blender user today!",
-   "i": "https://hb.imgix.net/82f53e29a05043c13617145d169bdd8d15b8b41c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fed8a0218419fdb65ecece1d06faaf16",
-   "e": 1794682800000
+   "u": "/software/software-engineering-2026-software",
+   "n": "Software Engineering 2026",
+   "b": "Supercharge your software engineering skills.",
+   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
+   "e": 1794250800000
   },
   {
    "u": "/software/unreal-multiverse-bundle-software",
@@ -120,13 +120,6 @@
    "e": 1794423600000
   },
   {
-   "u": "/software/elevate-your-audio-design-for-games-software",
-   "n": "Elevate your Audio Design for Games",
-   "b": "Find the perfect sound",
-   "i": "https://hb.imgix.net/feee93f828146f6733d60f0da8fda813253abc2f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=989c48e3375ee3d8c0828fb237573496",
-   "e": 1795892400000
-  },
-  {
    "u": "/software/undead-survival-horror-essentials-software",
    "n": "Undead Survival & Horror Essentials",
    "b": "Celebrate Halloween with horror assets.",
@@ -134,18 +127,25 @@
    "e": 1794423600000
   },
   {
-   "u": "/software/software-engineering-2026-software",
-   "n": "Software Engineering 2026",
-   "b": "Supercharge your software engineering skills.",
-   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
-   "e": 1794250800000
-  },
-  {
    "u": "/software/ultimate-python-machine-learning-ai-engineering-bundle-202-software",
    "n": "The Ultimate Python, Machine Learning & AI Engineering Bundle 202",
    "b": "Your future is powered by Python & AI.",
    "i": "https://hb.imgix.net/d7f5d474d097e28aa850c94e29a36aa553bac0d0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2485362dd35c7a82eb712bc14d4d55c9",
    "e": 1794596400000
+  },
+  {
+   "u": "/software/elevate-your-audio-design-for-games-software",
+   "n": "Elevate your Audio Design for Games",
+   "b": "Find the perfect sound",
+   "i": "https://hb.imgix.net/feee93f828146f6733d60f0da8fda813253abc2f.jpg?auto=compress,format&fit=crop&h=353&w=616&s=989c48e3375ee3d8c0828fb237573496",
+   "e": 1795892400000
+  },
+  {
+   "u": "/software/blender-3d-game-development-bundle-software",
+   "n": "Blender 3D & Game Development Bundle",
+   "b": "Become a better Blender user today!",
+   "i": "https://hb.imgix.net/82f53e29a05043c13617145d169bdd8d15b8b41c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fed8a0218419fdb65ecece1d06faaf16",
+   "e": 1794682800000
   },
   {
    "u": "/software/underwater-creatures-mega-bundle-unreal-engine-unity-software",
