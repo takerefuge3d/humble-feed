@@ -85,48 +85,6 @@
    "e": 1794855600000
   },
   {
-   "u": "/software/software-engineering-2026-software",
-   "n": "Software Engineering 2026",
-   "b": "Supercharge your software engineering skills.",
-   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
-   "e": 1794855600000
-  },
-  {
-   "u": "/software/unity-powerhouse-bundle-software",
-   "n": "Unity Powerhouse Bundle",
-   "b": "Build your world with Unity",
-   "i": "https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f89952f7d9a6ccd353dfb9163763b45f",
-   "e": 1794423600000
-  },
-  {
-   "u": "/software/data-engineering-masterclass-software",
-   "n": "Data Engineering Masterclass",
-   "b": "A masterclass in data engineering advancement",
-   "i": "https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f2287fb7daa02a0e3e8726d3eb5c4910",
-   "e": 1794510000000
-  },
-  {
-   "u": "/software/ultimate-python-machine-learning-ai-engineering-bundle-202-software",
-   "n": "The Ultimate Python, Machine Learning & AI Engineering Bundle 202",
-   "b": "Your future is powered by Python & AI.",
-   "i": "https://hb.imgix.net/d7f5d474d097e28aa850c94e29a36aa553bac0d0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2485362dd35c7a82eb712bc14d4d55c9",
-   "e": 1794596400000
-  },
-  {
-   "u": "/software/blender-3d-game-development-bundle-software",
-   "n": "Blender 3D & Game Development Bundle",
-   "b": "Become a better Blender user today!",
-   "i": "https://hb.imgix.net/82f53e29a05043c13617145d169bdd8d15b8b41c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fed8a0218419fdb65ecece1d06faaf16",
-   "e": 1794682800000
-  },
-  {
-   "u": "/software/undead-survival-horror-essentials-software",
-   "n": "Undead Survival & Horror Essentials",
-   "b": "Celebrate Halloween with horror assets.",
-   "i": "https://hb.imgix.net/54d7d51a71c486c45eccf00ce6d6eae4a4b6168b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d0c514c0b21ddb1322ee5f0cd3b6088a",
-   "e": 1794423600000
-  },
-  {
    "u": "/software/unreal-multiverse-bundle-software",
    "n": "Unreal Multiverse Bundle",
    "b": "Game design made simple",
@@ -141,10 +99,24 @@
    "e": 1795892400000
   },
   {
-   "u": "/software/complete-java-developer-bundle-software",
-   "n": "The Complete Java Developer Bundle",
-   "b": "Gotta have your Java",
-   "i": "https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2393c7cd1f61213918020cbc28be6b4f",
+   "u": "/software/data-engineering-masterclass-software",
+   "n": "Data Engineering Masterclass",
+   "b": "A masterclass in data engineering advancement",
+   "i": "https://hb.imgix.net/b1c879e060a10678cb7cd6961b2f5d8ec0232c6c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f2287fb7daa02a0e3e8726d3eb5c4910",
+   "e": 1794510000000
+  },
+  {
+   "u": "/software/unity-powerhouse-bundle-software",
+   "n": "Unity Powerhouse Bundle",
+   "b": "Build your world with Unity",
+   "i": "https://hb.imgix.net/525bf8d4c24dc3a45f3763557a584f9f08542528.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f89952f7d9a6ccd353dfb9163763b45f",
+   "e": 1794423600000
+  },
+  {
+   "u": "/software/undead-survival-horror-essentials-software",
+   "n": "Undead Survival & Horror Essentials",
+   "b": "Celebrate Halloween with horror assets.",
+   "i": "https://hb.imgix.net/54d7d51a71c486c45eccf00ce6d6eae4a4b6168b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d0c514c0b21ddb1322ee5f0cd3b6088a",
    "e": 1794423600000
   },
   {
@@ -162,11 +134,39 @@
    "e": 1795546800000
   },
   {
+   "u": "/software/ultimate-python-machine-learning-ai-engineering-bundle-202-software",
+   "n": "The Ultimate Python, Machine Learning & AI Engineering Bundle 202",
+   "b": "Your future is powered by Python & AI.",
+   "i": "https://hb.imgix.net/d7f5d474d097e28aa850c94e29a36aa553bac0d0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2485362dd35c7a82eb712bc14d4d55c9",
+   "e": 1794596400000
+  },
+  {
    "u": "/software/from-ideas-to-websites-software",
    "n": "From Ideas to Websites!",
    "b": "Easily build professional-quality websites!",
    "i": "https://hb.imgix.net/6c951263b846da20680ebe13b343440258073dd0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=77792e6d0296d229d75aac051450e43a",
    "e": 1795719600000
+  },
+  {
+   "u": "/software/blender-3d-game-development-bundle-software",
+   "n": "Blender 3D & Game Development Bundle",
+   "b": "Become a better Blender user today!",
+   "i": "https://hb.imgix.net/82f53e29a05043c13617145d169bdd8d15b8b41c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=fed8a0218419fdb65ecece1d06faaf16",
+   "e": 1794682800000
+  },
+  {
+   "u": "/software/complete-java-developer-bundle-software",
+   "n": "The Complete Java Developer Bundle",
+   "b": "Gotta have your Java",
+   "i": "https://hb.imgix.net/ee169cd00285a1a410ab45e1f1f6f542453d69d7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=2393c7cd1f61213918020cbc28be6b4f",
+   "e": 1794423600000
+  },
+  {
+   "u": "/software/software-engineering-2026-software",
+   "n": "Software Engineering 2026",
+   "b": "Supercharge your software engineering skills.",
+   "i": "https://hb.imgix.net/9ef50679fe047a0fb3913ec626b705f45ec3c728.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8d41d4813ad8689b15d8d3391bdb77a9",
+   "e": 1794855600000
   }
  ]
 }
